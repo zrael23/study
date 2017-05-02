@@ -3,14 +3,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2017-04-28 05:43\n"
-"PO-Revision-Date: 2017-04-28 14:55+0900\n"
+"POT-Creation-Date: 2017-05-01 07:42\n"
+"PO-Revision-Date: 2017-05-02 01:58+0300\n"
 "Language-Team: \n"
-"Language: ko\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Last-Translator: \n"
 "X-Generator: Poedit 2.0.1\n"
 
@@ -21,13 +21,13 @@ msgstr ""
 #: /Game/UMG/MessageBox.MessageBox_C:WidgetTree.TextBlock_140.Text
 #: /Game/UMG/MessageBox.MessageBox_C:WidgetTree.TextBlock_49.Text
 msgid "YES"
-msgstr "네"
+msgstr "ДА"
 
 #. Key:	0199AACE423FD2CF63D1A9AEE4F7BC36
 #. SourceLocation:	/Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_1.Text
 #: /Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_1.Text
 msgid "WARNING - VERSION MISMATCH"
-msgstr ""
+msgstr "ВНИМАНИЕ - ВЕРСИЯ НЕ СООТВЕТСТВУЕТ"
 
 #. Key:	02AA6F924B05FCBBB9703A98FB9FC38A
 #. SourceLocation:	/Game/UMG/MainMenuOption.MainMenuOption_C:WidgetTree.BTN_Back.Caption
@@ -62,7 +62,7 @@ msgstr ""
 #: /Game/UMG/SaveSlot.SaveSlot_C:GetDescriptionTexts
 #: /Game/UMG/SystemMenu.SystemMenu_C:GetDescriptionTexts
 msgid "[ui_cancel] BACK"
-msgstr "[ui_cancel] 돌아가기"
+msgstr "[ui_cancel] НАЗАД"
 
 #. Key:	0459836F496E670985B5E880B00A630C
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetToggleText [Script Bytecode]
@@ -72,7 +72,7 @@ msgstr "[ui_cancel] 돌아가기"
 #: [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetToggleText
 msgid "ON"
-msgstr ""
+msgstr "ВКЛ."
 
 #. Key:	0507B4FF40BB548605894AB5390367BF
 #. SourceLocation:	/Game/Blueprints/BaseClass/BP_DoorBase.BP_DoorBase_C:GetPickUpTagText [Script Bytecode]
@@ -82,26 +82,26 @@ msgstr ""
 #: [Script Bytecode]
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_Tutorial.GWTD_Map_Tutorial:PersistentLevel.BP_TutorialDoor_821.MyPickUpComponent.PickUpText
 msgid "OPEN"
-msgstr "열기"
+msgstr "ОТКРЫТЬ"
 
 #. Key:	061E299344A9C78E663EF08CE0CA8F1B
 #. SourceLocation:	/Game/Components/ShopComponent.Default__ShopComponent_C.DisplayName
 #: /Game/Components/ShopComponent.Default__ShopComponent_C.DisplayName
 msgid "Shop"
-msgstr ""
+msgstr "Магазин"
 
 #. Key:	07140D2B40E598156BA4DE9E6460D2B5
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Shift.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Shift.Instruction
 msgid "Now all your attacks and movements are focused on the target."
-msgstr ""
+msgstr "Теперь все ваши атаки и движения сфокусированы на цели."
 
 #. Key:	075F63D2498F32DF95647D863E9CFBB8
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText
 #: [Script Bytecode]
 msgid "FULLSCREEN"
-msgstr ""
+msgstr "ПОЛНОЭКРАННЫЙ РЕЖИМ"
 
 #. Key:	08A5F1374E92E840042FE6892D6ED6B3
 #. SourceLocation:	/Game/UMG/SaveSlot.SaveSlot_C:GetLevelText [Script Bytecode]
@@ -119,7 +119,7 @@ msgstr ""
 #: /Game/UMG/SaveSlot.SaveSlot_C:GetLevelText
 #: /Game/UMG/SaveSlot.SaveSlot_C:GetTimePlayedText
 msgid "UNKNOWN"
-msgstr ""
+msgstr "НЕИЗВЕСТНО"
 
 #. Key:	098DF8A1439BE12E18B2B09DCBE5764D
 #. SourceLocation:	/Game/UMG/Ending.Ending_C:WidgetTree.TextBlock_198.Text
@@ -133,6 +133,13 @@ msgid ""
 "\r\n"
 "THANK YOU SO MUCH."
 msgstr ""
+"ВЫ ДОСТИГЛИ КОНЦА ЭТОЙ ВЕРСИИ РАННЕГО ДОСТУПА ИГРЫ. ПОЗДРАВЛЯЕМ ВАС, МЫ ПОРАЖЕНЫ ВАШИМ УПОРСТВОМ. \n"
+"\n"
+"ВЫ ОЧЕНЬ СИЛЬНО ПОМОЖЕТЕ НАМ, ЕСЛИ ОСТАВИТЕ СВОЙ ОТЗЫВ И ВПЕЧАТЛЕНИЯ ОБ ИГРЕ В НАШЕМ СООБЩЕСТВЕ. (ЛЮБЫЕ ИДЕИ, БАГИ, ПРОБЛЕМЫ С БАЛАНСОМ, СИЛЬНЫЕ И СЛАБЫЕ СТОРОНЫ ИГРЫ И.Т.Д.) \n"
+"\n"
+"СЕЙЧАС МЫ РАБОТАЕМ НАД УЛУЧШЕНИЕМ ИГРЫ И ДОБАВЛЕНИЕМ НОВОГО КОНТЕНТА, НАДЕЕМСЯ ЧТО ВЫ БУДЕТЕ ЖДАТЬ ЭТИХ ИЗМЕНЕНИЙ.\n"
+"\n"
+"ОГРОМНОЕ СПАСИБО."
 
 #. Key:	099BFAAA4F275402E2FA70AB510E0380
 #. SourceLocation:	/Game/UMG/LevelUpPanel.LevelUpPanel_C:WidgetTree.TextBlock_254.Text
@@ -144,34 +151,40 @@ msgstr ""
 #: /Game/UMG/BedUI.BedUI_C:WidgetTree.LevelUpButton.WidgetTree.TextBlock_4.Text
 #: /Game/UMG/LevelUpPanel.LevelUpPanel_C:WidgetTree.TextBlock_254.Text
 msgid "Level up"
-msgstr ""
+msgstr "Поднять уровень"
+
+#. Key:	09F37D8148A78F886029DFAB0C166296
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_0.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_0.Text
+msgid "ATTACK LEFT"
+msgstr "УДАР СЛЕВА"
 
 #. Key:	0C94C933470672770933C38B87EF2CDE
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText
 #: [Script Bytecode]
 msgid "WINDOWED"
-msgstr ""
+msgstr "В ОКНЕ"
 
 #. Key:	0D9A0CC8496A80710E501EA3B8B90D94
 #. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:GetText_0 [Script Bytecode]
 #: /Game/UMG/GuideTemp.GuideTemp_C:GetText_0 [Script Bytecode]
 msgid "SHOW MOUSE/KEYBOARD GUIDE"
-msgstr "마우스/키보드 가이드 보기"
+msgstr "ПОКАЗАТЬ РАСКЛАДКУ КЛАВИАТУРЫ"
 
 #. Key:	0DC2199641B396D99610CD8FA3984A78
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "MOTION BLUR"
-msgstr "모션 블러"
+msgstr "MOTION BLUR"
 
 #. Key:	0DC7F5CD43581129E595429CF65BCEE0
 #. SourceLocation:	/Game/UMG/SystemMenu_Root.SystemMenu_Root_C:ExecuteUbergraph_SystemMenu_Root [Script Bytecode]
 #: /Game/UMG/SystemMenu_Root.SystemMenu_Root_C:ExecuteUbergraph_SystemMenu_Root
 #: [Script Bytecode]
 msgid "Are you sure you want to exit to the main menu?"
-msgstr ""
+msgstr "Вы уверены что хотите выйти в главное меню?"
 
 #. Key:	0E2446DE45C349CF3FC31593D430FCB0
 #. SourceLocation:	/Game/Blueprints/BaseClass/BP_DoorBase.BP_DoorBase_C:GetPickUpTagText [Script Bytecode]
@@ -179,19 +192,19 @@ msgstr ""
 #: /Game/Blueprints/BaseClass/BP_DoorBase.BP_DoorBase_C:GetPickUpTagText
 #: [Script Bytecode]
 msgid "DOOR IS LOCKED"
-msgstr ""
+msgstr "ЗАПЕРТО"
 
 #. Key:	0F8F9410449927DFCCDB0681511B9517
 #. SourceLocation:	/Game/UMG/Notes/NotePanel.NotePanel_C:WidgetTree.KeyCapWithText.Caption
 #: /Game/UMG/Notes/NotePanel.NotePanel_C:WidgetTree.KeyCapWithText.Caption
 msgid "[ui_cancel] CLOSE"
-msgstr "[ui_cancel] 닫기"
+msgstr "ЗАКРЫТЬ"
 
 #. Key:	113D49624987573F35DEB9AB694BE42E
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Guard_Session.InstructionEx
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Guard_Session.InstructionEx
 msgid "While holding down [player_guard_left] + [player_guard_right], you can block all attacks coming forward."
-msgstr ""
+msgstr "Зажав клавиши [player_guard_left] + [player_guard_right], вы можете блокировать наступающие атаки."
 
 #. Key:	119894BE493B5A1BE3E66B94E3F54AC6
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Stamina_Tip.Missions(0).Missions.MissionDescription
@@ -206,7 +219,7 @@ msgstr ""
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_Tip.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Stamina_Tip.Missions(0).Missions.MissionDescription
 msgid "Press [ui_use] to proceed."
-msgstr ""
+msgstr "Нажмите [ui_use] чтобы продолжить."
 
 #. Key:	11D88BDE48A7B2E84E4B3783CEAEC123
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.PickUpItem_mushroomL2_8129.MyPickUpComponent.PickUpText
@@ -215,32 +228,32 @@ msgstr ""
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.PickUpItem_mushroomL2_8129.MyPickUpComponent.PickUpText
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.PickUpItem_mushroomS2_734.MyPickUpComponent.PickUpText
 msgid "EAT"
-msgstr ""
+msgstr "СЪЕСТЬ"
 
 #. Key:	1224508449AA43E132D0BFBAB2E55EE1
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText
 #: [Script Bytecode]
 msgid "TEMPORAL AA"
-msgstr ""
+msgstr "TEMROPAL AA"
 
 #. Key:	13A866974DE96757910CF4BF5112FAA0
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_Session.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_Session.Instruction
 msgid "You can dodge enemy’s attacks in any direction."
-msgstr ""
+msgstr "Вы можете уворачиваться от вражеских атак в любом направлении."
 
 #. Key:	148C069F4993274A31DB9E93F25042E2
 #. SourceLocation:	/Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Stone.Description
 #: /Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Stone.Description
 msgid "Sometimes it is difficult to get something very common for emergency use."
-msgstr ""
+msgstr "Иногда такие простые вещи очень помогают в экстренной ситуации."
 
 #. Key:	1491C2A44028C3433FA645A02F0E4385
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_Session.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_Session.Instruction
 msgid "All attacks are directional."
-msgstr ""
+msgstr "У всех атак есть направление."
 
 #. Key:	15D5E5CC4970185753C136B42A9C7448
 #. SourceLocation:	/Game/Data/Tables/HintByMonster.HintByMonster.Worker20.HintTexts(0).HintTexts
@@ -255,51 +268,51 @@ msgstr ""
 #: /Game/Data/Tables/HintByMonster.HintByMonster.WorkerEZ.HintTexts(0).HintTexts
 #: /Game/Data/Tables/HintByMonster.HintByMonster.WorkerNoVest.HintTexts(0).HintTexts
 msgid "All attacks require recovery time to return to a neutral state. See the attack movements of enemies and hit them during their long recovery time."
-msgstr ""
+msgstr "У всех атак есть время восстановления. Следите за атаками противника, и атакуйте их в момент восстановления атаки."
 
 #. Key:	15E940F24A2B08C168BB70BCF80E0931
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "MOUSE SENSITIVITY"
-msgstr ""
+msgstr "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"
 
 #. Key:	172991F04C878AE561C6F8934794F7A0
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText
 #: [Script Bytecode]
 msgid "WINDOWED FULLSCREEN"
-msgstr ""
+msgstr "ПОЛНОЭКРАННЫЙ В РАМКЕ"
 
 #. Key:	1797B8074BE5A9F229A8B8BFB0F0CCD2
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.CreditsW.Caption
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.CreditsW.Caption
 msgid "CREDITS"
-msgstr ""
+msgstr "ТИТРЫ"
 
 #. Key:	19479B084589EBB4D83988914CE818F0
 #. SourceLocation:	/Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_0.Text
 #: /Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_0.Text
 msgid "GAME VERSION"
-msgstr ""
+msgstr "ВЕРСИЯ ИГРЫ"
 
 #. Key:	1A243C18473B7D020CE913807DC9C904
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_06.GWTD_Map_06:PersistentLevel.MyFloorMapAgent_44.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_06.GWTD_Map_06:PersistentLevel.MyFloorMapAgent_44.RegionName
 msgid "Underground  Level  9"
-msgstr ""
+msgstr "Подземелье Уровень 9"
 
 #. Key:	1B661FED4EC2B2BF23BBEF9CA0E62A9D
 #. SourceLocation:	/Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_0.Text
 #: /Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_0.Text
 msgid "Combos"
-msgstr ""
+msgstr "Комбо"
 
 #. Key:	1B8ADE6D45C7E95631DBCBB9E1F4A874
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.QuitToMenu.Caption
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.QuitToMenu.Caption
 msgid "EXIT TO MAIN MENU"
-msgstr "메인 메뉴로 나가기"
+msgstr "ВЫЙТИ В ГЛАВНОЕ МЕНЮ"
 
 #. Key:	1CAC05D14D3D3E0EB031CDB94DAFAFE8
 #. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.PickUpItemTag.WidgetTree_4726.DescriptionWidget.Text
@@ -311,26 +324,32 @@ msgstr "메인 메뉴로 나가기"
 #: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.PickUpItemTag.WidgetTree_4726.DescriptionWidget.Text
 #: /Game/UMG/PickUpChestWidget.PickUpChestWidget_C:WidgetTree_279.TakeInfoTextWidget.Text
 msgid "TAKE"
-msgstr ""
+msgstr "ВЗЯТЬ"
 
 #. Key:	1D1C03314BDD70A7BD92E3AB12774554
 #. SourceLocation:	/Game/UMG/NoticeRemovedKey.NoticeRemovedKey_C:WidgetTree.TextBlock_52.Text
 #: /Game/UMG/NoticeRemovedKey.NoticeRemovedKey_C:WidgetTree.TextBlock_52.Text
 msgid "REMOVED"
-msgstr ""
+msgstr "УДАЛЕНО"
+
+#. Key:	1D48C02444E89C43218200AF3791E249
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_15.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_15.Text
+msgid "(JUST BEFORE BEING HIT)"
+msgstr "(ПРЯМО ПЕРЕД ПОЛУЧЕНИЕМ УДАРА)"
 
 #. Key:	1DD06E5B4099A073F5CD289918A7BC98
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "INVERT Y"
-msgstr ""
+msgstr "ИНВЕРТИРОВАТЬ Y"
 
 #. Key:	1EDDFCBB434F230B00D5B8B62C2B36C3
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_20.TabName
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_20.TabName
 msgid "ITEM"
-msgstr ""
+msgstr "ВЕЩИ"
 
 #. Key:	1F24162946DA0826EF6105BD14293BF9
 #. SourceLocation:	/Game/Data/Tables/HintByMonster.HintByMonster.WorkerNoVest.HintTexts(2).HintTexts
@@ -345,13 +364,13 @@ msgstr ""
 #: /Game/Data/Tables/HintByMonster.HintByMonster.WorkerEZ.HintTexts(2).HintTexts
 #: /Game/Data/Tables/HintByMonster.HintByMonster.WorkerNoVest.HintTexts(2).HintTexts
 msgid "To defeat the sledgehammer guy, you need to know when to dodge or block."
-msgstr ""
+msgstr "Для победы над противником с кувалдой, вы должны точно знать когда уклоняться от его атак."
 
 #. Key:	1F86CD75414AC323782D4D904FD740A8
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkPickUpComponent.PickUpText
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkPickUpComponent.PickUpText
 msgid "TALK"
-msgstr ""
+msgstr "ГОВОРИТЬ"
 
 #. Key:	20456CE84175AC7257BA5F866EEFD245
 #. SourceLocation:	/Game/UMG/ManageSaveSlot.ManageSaveSlot_C:WidgetTree.KeyCapWithText.Caption
@@ -370,39 +389,63 @@ msgstr ""
 #: /Game/UMG/SaveSlot.SaveSlot_C:GetDescriptionTexts [Script Bytecode]
 #: /Game/UMG/SystemMenu.SystemMenu_C:GetDescriptionTexts
 msgid "[ui_nav_up_down] NAVIGATE"
-msgstr "[ui_nav_up_down] 선택"
+msgstr "[ui_nav_up_down] НАВИГАЦИЯ"
 
 #. Key:	20A3E8D34C2ED99509CFEAAE0BBB2851
 #. SourceLocation:	/Game/UMG/MainMenuBG.MainMenuBG_C:WidgetTree.Version.WidgetTree.TextBlock_0.Text
 #: /Game/UMG/MainMenuBG.MainMenuBG_C:WidgetTree.Version.WidgetTree.TextBlock_0.Text
 msgid "EARLY ACCESS"
-msgstr ""
+msgstr "РАННИЙ ДОСТУП"
+
+#. Key:	23BC731C4077E2044FF464B42234DA70
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_8.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_8.Text
+msgid "KICK"
+msgstr "ПИНОК"
 
 #. Key:	249FEF494DBDF2E1A2C50585122EFCB3
 #. SourceLocation:	/Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_31.Text
 #: /Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_31.Text
 msgid "Weapon"
-msgstr ""
+msgstr "Оружие"
 
 #. Key:	262C96AB46E3BD291C69C89A98962201
 #. SourceLocation:	/Game/UMG/SystemMenu_Root.SystemMenu_Root_C:ExecuteUbergraph_SystemMenu_Root [Script Bytecode]
 #: /Game/UMG/SystemMenu_Root.SystemMenu_Root_C:ExecuteUbergraph_SystemMenu_Root
 #: [Script Bytecode]
 msgid "Are you sure you want to respawn?"
-msgstr ""
+msgstr "Вы уверены, что хотите переродиться?"
+
+#. Key:	26DB7287495785FC2A1779886C7C9F6B
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_6.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_6.Text
+msgid "SHIFT TARGET"
+msgstr "СМЕНИТЬ ЦЕЛЬ"
 
 #. Key:	28CD9FA943C7C8F5932F1DB02E5599D4
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "FRAMERATE COUNTER"
-msgstr ""
+msgstr "ПОКАЗЫВАТЬ FPS"
+
+#. Key:	2B4EB49C4CAEF5F9EA4838A1CAD4120A
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.KeyCapWithText.Caption
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.KeyCapWithText.Caption
+msgid "e.g. fist - [player_attack_right][player_attack_left][player_attack_right]    ,    pipe wrench - [player_attack_right][player_attack_right][player_attack_right]   ,   [player_attack_left][player_attack_right]"
+msgstr "например: кулаки - [player_attack_right][player_attack_left][player_attack_right]    ,    разводной ключ - [player_attack_right][player_attack_right][player_attack_right]   ,   [player_attack_left][player_attack_right]"
+
+#. Key:	2BD8835946752B9F21486D8F35E8F8B2
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_5.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_5.Text
+msgid "Each weapon has own move set,"
+msgstr "У каждого оружия есть свои атаки,"
 
 #. Key:	2BFF014344DD9C2F110216B8929961E5
 #. SourceLocation:	/Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_8.Text
 #: /Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_8.Text
 msgid "TIME PLAYED"
-msgstr ""
+msgstr "ВРЕМЯ ИГРЫ"
 
 #. Key:	2D9241374284ABC973507187C35E964D
 #. SourceLocation:	/Game/UMG/AutoSaveWarning.AutoSaveWarning_C:WidgetTree.BTN_Close.Caption
@@ -411,32 +454,32 @@ msgstr ""
 #: /Game/UMG/AutoSaveWarning.AutoSaveWarning_C:WidgetTree.BTN_Close.Caption
 #: /Game/UMG/LevelUpPanel.LevelUpPanel_C:WidgetTree.LevelUp_DescriptionPanel.WidgetTree.ConfirmKeyCap.Caption
 msgid "[ui_ok] CONFIRM"
-msgstr ""
+msgstr "[ui_ok] ГОТОВО"
 
 #. Key:	2E5CBE4C4E0B9BCDA09B6A93BF4B39A5
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_Tip.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_Tip.Instruction
 msgid "All attacks require recovery time to return to a neutral state. See the attack movements of enemies and hit them during their recovery time. And combo attacks deal more damage than a series of a single attack."
-msgstr ""
+msgstr "У всех атак есть время восстановления. Следите за атаками противников, и атакуйте их в момент восстановления атаки. Используйте комбо-атаки чтобы нанести больше урона."
 
 #. Key:	2E98EBC94E37EFADF415E5AFF12B518D
 #. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_11.Text
 #: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_11.Text
 msgid "ATTACK"
-msgstr ""
+msgstr "АТАКА"
 
 #. Key:	313723424804423D453ED3BE8B9D87B1
 #. SourceLocation:	/Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 #: /Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 msgid "[ui_inven_use] UNEQUIP"
-msgstr ""
+msgstr "[ui_inven_use] УБРАТЬ"
 
 #. Key:	321D0AB44CA04F90EC1F2C84172E7770_Caption4
 #. SourceLocation:	/Game/UMG/AbilityPanel.AbilityPanel_C:ExecuteUbergraph_AbilityPanel [Script Bytecode]
 #: /Game/UMG/AbilityPanel.AbilityPanel_C:ExecuteUbergraph_AbilityPanel [Script
 #: Bytecode]
 msgid "Are you sure you want to level up the character based on these choices?"
-msgstr ""
+msgstr "Вы уверены, что хотите поднять уровень персонажа с этими характеристиками?"
 
 #. Key:	321FF4F14105AFF531B074A5BB643BC3
 #. SourceLocation:	/Game/UMG/VendingMachine/VendingMachinePanel.VendingMachinePanel_C:WidgetTree.TextBlock_45.Text
@@ -445,13 +488,13 @@ msgstr ""
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.vendingMachine_01.ShopComponent.DisplayName
 #: /Game/UMG/VendingMachine/VendingMachinePanel.VendingMachinePanel_C:WidgetTree.TextBlock_45.Text
 msgid "Vending Machine"
-msgstr "자판기"
+msgstr "Торговый Автомат"
 
 #. Key:	32FE23C148F703B1B59C4E9D57C2FFB0
 #. SourceLocation:	/Game/UMG/YouAreDead.YouAreDead_C:WidgetTree.TextBlock_228.Text
 #: /Game/UMG/YouAreDead.YouAreDead_C:WidgetTree.TextBlock_228.Text
 msgid "YOU ARE DEAD"
-msgstr ""
+msgstr "ВЫ МЕРТВЫ"
 
 #. Key:	33A115B24B21196C58C37AB80B53220D
 #. SourceLocation:	/Game/UMG/AutoSaveWarning.AutoSaveWarning_C:WidgetTree.TextBlock_0.Text
@@ -461,44 +504,47 @@ msgid ""
 "Please do not turn off your system \r\n"
 "while the save indicator is being displayed."
 msgstr ""
+"Эта игра использует систему Авто-Сохранения. \r\n"
+"Пожалуйста, не выключайте свой компьютер, \r\n"
+"когда видите на экране этот значок."
 
 #. Key:	354F56614761F617C97F07A9C5F1187D
 #. SourceLocation:	/Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_48.Text
 #: /Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_48.Text
 msgid "Clothes"
-msgstr ""
+msgstr "Одежда"
 
 #. Key:	358AA9E94BF015B5135F27B5CEF5B694
 #. SourceLocation:	/Game/UMG/ABText_Ability.Default__ABText_Ability_C.KeyText
 #: /Game/UMG/ABText_Ability.Default__ABText_Ability_C.KeyText
 msgid "Essence to Level up"
-msgstr ""
+msgstr "Требуемая Эссенция"
 
 #. Key:	36338D1C496D01B55CC47E9C399A40AC
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "LANGUAGE"
-msgstr ""
+msgstr "ЯЗЫК"
 
 #. Key:	369C1EA34208E844DD6054BF1982803E
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.Help.Caption
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.Help.Caption
 msgid "HOW TO PLAY (F1)"
-msgstr ""
+msgstr "КАК ИГРАТЬ (F1)"
 
 #. Key:	372069EB47C718CB10DF8BB0FB123F8E
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "HUD"
-msgstr ""
+msgstr "HUD"
 
 #. Key:	37C48E7E46C54A1967E046BDB5558DD4
 #. SourceLocation:	/Game/Data/Tables/HintByMonster.HintByMonster.RitoShield.HintTexts(0).HintTexts
 #: /Game/Data/Tables/HintByMonster.HintByMonster.RitoShield.HintTexts(0).HintTexts
 msgid "If the enemy has a shield, attack the other side of the shield."
-msgstr ""
+msgstr "Если у противника есть щит, бейте по обратной стороне щита."
 
 #. Key:	38762AEB41ED89176A534686898ECB81
 #. SourceLocation:	/Game/Data/Tables/HintByMonster.HintByMonster.Earthworm.HintTexts(0).HintTexts
@@ -507,63 +553,63 @@ msgstr ""
 #: /Game/Data/Tables/HintByMonster.HintByMonster.Earthworm.HintTexts(0).HintTexts
 #: /Game/Data/Tables/HintByMonster.HintByMonster.Earthworm20.HintTexts(0).HintTexts
 msgid "The worm cannot be counterattacked."
-msgstr ""
+msgstr "Червей нельзя контр-атаковать."
 
 #. Key:	3972736A499FB29B99AE028248EC8549
 #. SourceLocation:	/Game/UMG/Guide/GuideTV_Content_Counterattack.GuideTV_Content_Counterattack_C:WidgetTree.KeyCapWithText_C_0.Caption
 #: /Game/UMG/Guide/GuideTV_Content_Counterattack.GuideTV_Content_Counterattack_C:WidgetTree.KeyCapWithText_C_0.Caption
 msgid "COUNTER ATTACK RIGHT : (Hold) [player_guard_right]  ( Just before being hit )"
-msgstr ""
+msgstr "КОНТРАТАКА СПРАВА : (Зажмите) [player_guard_right]  ( Прямо перед тем, как вас атакуют )"
 
 #. Key:	39E609034CBEC53802E43E84835DC591
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Tip.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Tip.Instruction
 msgid "A counterattack simultaneously manages attack and defense. It’s highly effective and does heavy damage. Depending on enemies or their weapons, you may need some practice to find good timing. Also, there are some enemies that you cannot counterattack."
-msgstr ""
+msgstr "Контратака одновременно работает как атака, так и защита. Это очень эффективный способ нанести много урона. В зависимости от противников и их оружия, вам придется потренироваться чтобы найти правильное время для контратаки. Но знайте, есть противники, которых невозможно контратаковать."
+
+#. Key:	3A1C3FCD4DDC22440AA41086FDE30F64
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_9.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_9.Text
+msgid "Movements and attacks consume Stamina."
+msgstr "Движения и удары затрачивают Стамину."
 
 #. Key:	3B8A95C443A0E68BDFA3D58D158CD0F5
 #. SourceLocation:	/Game/UMG/ABText_Essence.Default__ABText_Essence_C.KeyText
 #: /Game/UMG/ABText_Essence.Default__ABText_Essence_C.KeyText
 msgid "Your own Essence"
-msgstr ""
+msgstr "Ваша Эссенция"
 
 #. Key:	3D3B586A4358D6C5637A5FAA6FEB3F8A
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText
 #: [Script Bytecode]
 msgid "ULTRA"
-msgstr ""
-
-#. Key:	3E3058274F20FB9CA5E43994EABF3272
-#. SourceLocation:	/Game/UMG/VendingMachine/VendingMachineSlot.VendingMachineSlot_C:WidgetTree.ItemNameW.Text
-#: /Game/UMG/VendingMachine/VendingMachineSlot.VendingMachineSlot_C:WidgetTree.ItemNameW.Text
-msgid "KoreanStyleBacon"
-msgstr ""
+msgstr "УЛЬТРА"
 
 #. Key:	3EB1C4804299702511ECAAB940FDFD0D
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetCrosshairShowTypeText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetCrosshairShowTypeText
 #: [Script Bytecode]
 msgid "INTERACTION ONLY"
-msgstr ""
+msgstr "ТОЛЬКО ВЗАИМОДЕЙСТВОВАТЬ"
 
 #. Key:	3F55D0D247D682216FE7609F7B03381B
 #. SourceLocation:	/Game/Data/Tables/HintByMonster.HintByMonster.RedBandana.HintTexts(0).HintTexts
 #: /Game/Data/Tables/HintByMonster.HintByMonster.RedBandana.HintTexts(0).HintTexts
 msgid "If the counterattack and dodging are ineffective, try guarding. (hold [player_guard_left] + [player_guard_right])"
-msgstr ""
+msgstr "Если не получается контратаковать или уворачиваться, попробуйте блокировать атаки. (зажмите [player_guard_left] + [player_guard_right])"
 
 #. Key:	3F89FC9E4457146C185D9EAD0F1A70D7
 #. SourceLocation:	/Game/UMG/Dialog/DialogBranch.DialogBranch_C:WidgetTree.TextButtonW_Talk.Caption
 #: /Game/UMG/Dialog/DialogBranch.DialogBranch_C:WidgetTree.TextButtonW_Talk.Caption
 msgid "Talk"
-msgstr ""
+msgstr "Говорить"
 
 #. Key:	401B8DD8470F9717B7E94E98C2DF6A3D
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_Session.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_Session.Missions(0).Missions.MissionDescription
 msgid "Press [player_attack_left] to attack left and hit the opponent."
-msgstr ""
+msgstr "Нажмите [player_attack_left] чтобы атаковать слева."
 
 #. Key:	417E9654489B23544BFABB96E4AC3C9F
 #. SourceLocation:	/Game/UMG/SaveSlot.SaveSlot_C:GetDescriptionTexts [Script Bytecode]
@@ -572,13 +618,19 @@ msgstr ""
 #: /Game/UMG/ManageSaveSlot.ManageSaveSlot_C:WidgetTree.BTN_Load.Caption
 #: /Game/UMG/SaveSlot.SaveSlot_C:GetDescriptionTexts [Script Bytecode]
 msgid "[ui_ok] LOAD"
-msgstr ""
+msgstr "[ui_ok] ЗАГРУЗКА"
+
+#. Key:	42FA054A48BAD8D84DDC699A64476709
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_0.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_0.Text
+msgid "COUNTER ATTACK"
+msgstr "КОНТРАТАКА"
 
 #. Key:	43992CEC4A6BF629C86BB790A6982A0B
 #. SourceLocation:	/Game/UMG/Guide/GuideTV_Content_Lockon.GuideTV_Content_Lockon_C:WidgetTree.KeyCapWithText_145.Caption
 #: /Game/UMG/Guide/GuideTV_Content_Lockon.GuideTV_Content_Lockon_C:WidgetTree.KeyCapWithText_145.Caption
 msgid "LOCK-ON : [player_lock_on]"
-msgstr ""
+msgstr "ЗАХВАТ ЦЕЛИ : [player_lock_on]"
 
 #. Key:	441166184A36E363D1F446A69DEC9A1C
 #. SourceLocation:	/Game/Blueprints/Core/Merchant.Merchant_C:ShopComponent_GEN_VARIABLE.DisplayName
@@ -587,76 +639,97 @@ msgstr ""
 #: /Game/Blueprints/Core/Merchant.Merchant_C:ShopComponent_GEN_VARIABLE.DisplayName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.DisplayName
 msgid "Merchant"
-msgstr ""
+msgstr "Торговец"
 
 #. Key:	4425B0F84D5BB10CD76569897A89F593
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.Continue.Caption
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.Continue.Caption
 msgid "CONTINUE"
-msgstr "계속하기"
+msgstr "ПРОДОЛЖИТЬ"
+
+#. Key:	44334B5543FC81D48AC8698A576613F8
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_16.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_16.Text
+msgid "VIEW MAP"
+msgstr "ОТКРЫТЬ КАРТУ"
 
 #. Key:	4557E0954F3901AD367BBAB88A9C5F32
 #. SourceLocation:	/Game/Blueprints/Characters/MossyClub.Default__MossyClub_C.DisplayName
 #: /Game/Blueprints/Characters/MossyClub.Default__MossyClub_C.DisplayName
 msgid "Mossy Club"
-msgstr ""
+msgstr "Старинная Дубина"
 
 #. Key:	4600938E4E96E56336EEC999DE598551
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.PressAnyKey.Text
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.PressAnyKey.Text
 msgid "PRESS ANY KEY TO CONTINUE"
-msgstr "아무 키나 누르세요"
+msgstr "НАЖМИТЕ ЛЮБУЮ КНОПКУ"
 
 #. Key:	479CAD6C4FBCE8D473002989DF574428
 #. SourceLocation:	/Game/UMG/EquipPanel.EquipPanel_C:Get_WeaponDurabilityWidget_Text_0 [Script Bytecode]
 #: /Game/UMG/EquipPanel.EquipPanel_C:Get_WeaponDurabilityWidget_Text_0 [Script
 #: Bytecode]
 msgid "Durability : {0}"
-msgstr ""
+msgstr "Прочность : {0}"
+
+#. Key:	48CE7B0B4EB5ECCE7D986F9AD37E7ADC
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_1.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_1.Text
+msgid "If you block just before being hit, a counterattack is executed."
+msgstr "Если заблокировать удар прямо перед попаданием по вам, вы проведете контратаку."
 
 #. Key:	49843F114B52866CE43B2F82AEF6466D
 #. SourceLocation:	/Game/UMG/Loading.Loading_C:WidgetTree.TextBlock_0.Text
 #: /Game/UMG/Loading.Loading_C:WidgetTree.TextBlock_0.Text
 msgid "LOADING"
-msgstr ""
+msgstr "ЗАГРУЗКА"
 
 #. Key:	49E1387642F999E540B51D886F87790B
 #. SourceLocation:	/Game/UMG/AbilityPanel.AbilityPanel_C:WidgetTree_249.MyConfirmButton.Caption
 #: /Game/UMG/AbilityPanel.AbilityPanel_C:WidgetTree_249.MyConfirmButton.Caption
 msgid "Confirm"
-msgstr ""
+msgstr "Подтвердить"
+
+#. Key:	4A59FA5F4F56FB24127FF2A3328C3AE2
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_22.Text
+#. Key:	E49B0F954743E698D2F81E9A89026C6E
+#. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_15.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_22.Text
+#: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_15.Text
+msgid "GUARD"
+msgstr "ЗАЩИТА"
 
 #. Key:	4C57CC4F425FEB8397CB0183D0464899
 #. SourceLocation:	/Game/UMG/Ending_Demo.Ending_Demo_C:WidgetTree.TextBlock_198.Text
 #: /Game/UMG/Ending_Demo.Ending_Demo_C:WidgetTree.TextBlock_198.Text
 msgid "DEMO COMPLETE"
-msgstr ""
+msgstr "ДЕМО ПРОЙДЕНО"
 
 #. Key:	4D8D27EB4AE283013974F38CDDFFB523
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText
 #: [Script Bytecode]
 msgid "HIGH"
-msgstr ""
+msgstr "ВЫСОКО"
 
 #. Key:	4DEF17BB465301E9577963A88302ABEB
 #. SourceLocation:	/Game/UMG/SystemMenu_Root.SystemMenu_Root_C:ExecuteUbergraph_SystemMenu_Root [Script Bytecode]
 #: /Game/UMG/SystemMenu_Root.SystemMenu_Root_C:ExecuteUbergraph_SystemMenu_Root
 #: [Script Bytecode]
 msgid "Are you sure you want to quit the game?"
-msgstr ""
+msgstr "Вы уверены, что хотите выйти из игры?"
 
 #. Key:	5019684F49F1D91C57CD1D9531E34DA3
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkMessages(1).TalkMessages
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkMessages(1).TalkMessages
 msgid "Yeah, there're many people who find missing persons."
-msgstr ""
+msgstr "Ага, много тут кто ищет своих пропавших друзей или родственников."
 
 #. Key:	5122F74A4F41FDB729406A93FAD5368E
 #. SourceLocation:	/Game/UMG/Guide/GuideTV_Content_GuardBreak.GuideTV_Content_GuardBreak_C:WidgetTree.KeyCapWithText_145.Caption
 #: /Game/UMG/Guide/GuideTV_Content_GuardBreak.GuideTV_Content_GuardBreak_C:WidgetTree.KeyCapWithText_145.Caption
 msgid "KICK (When Locking on)  :   (Hold)[player_look_down] + [player_attack_right]    or    (Hold)[player_look_down] + [player_attack_left]"
-msgstr ""
+msgstr "ПИНОК (Когда захвачена цель)  :   (Зажмите)[player_look_down] + [player_attack_right]    или    (Зажмите)[player_look_down] + [player_attack_left]"
 
 #. Key:	51A4F9E04C109A804B5E8F99EE80B5C3
 #. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_0.Text
@@ -665,56 +738,74 @@ msgstr ""
 #: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_0.Text
 #: /Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_6.Text
 msgid "MAP"
-msgstr ""
+msgstr "УРОВЕНЬ"
+
+#. Key:	51DAD1E9430C067799DC9886A8418A26
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_0.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_0.Text
+msgid "RUN"
+msgstr "БЕГ"
+
+#. Key:	531F751A415AEDDD176EC9A9904736DC
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_2.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_2.Text
+msgid "Blocking Middle doesn’t execute a counterattack."
+msgstr "Поставив Блок вы не сможете провести контратаку."
 
 #. Key:	55288E014D4800BC69838FBA1EDC7920
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_02.GWTD_Map_02:PersistentLevel.MyFloorMapAgent_44.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_02.GWTD_Map_02:PersistentLevel.MyFloorMapAgent_44.RegionName
 msgid "Underground  Level  4"
-msgstr ""
+msgstr "Подземелье Уровень 4"
 
 #. Key:	5615CEC5466226DB13A0059D1D5B5B55
 #. SourceLocation:	/Game/UMG/Dialog/DialogBranch.DialogBranch_C:WidgetTree.TextButtonW_Leave.Caption
 #: /Game/UMG/Dialog/DialogBranch.DialogBranch_C:WidgetTree.TextButtonW_Leave.Caption
 msgid "Leave"
-msgstr ""
+msgstr "Закрыть"
 
 #. Key:	5758FE0A497DC39E2C38798A7A82928F
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "DISPLAY MODE"
-msgstr ""
+msgstr "РЕЖИМ ЭКРАНА"
 
 #. Key:	5788C1C9464FBEC6D11E2EBC44AF95B7
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Session.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Session.Missions(0).Missions.MissionDescription
 msgid "Press [player_guard_left] just before being hit in order to execute a counterattack."
-msgstr ""
+msgstr "Нажмите [player_guard_left] прямо перед тем как вас атакуют, чтобы контратаковать."
 
 #. Key:	58249A45465FD50421B8AC8946549829
 #. SourceLocation:	/Game/UMG/AbilityPanel.AbilityPanel_C:WidgetTree_249.TextBlock_68.Text
 #: /Game/UMG/AbilityPanel.AbilityPanel_C:WidgetTree_249.TextBlock_68.Text
 msgid "Stats"
-msgstr ""
+msgstr "Статы"
 
 #. Key:	58495342488FBC1813E3FF8DD90593E0
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Session.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Session.Missions(0).Missions.MissionDescription
 msgid "Look at your opponent and press [player_lock_on] to lock on."
-msgstr ""
+msgstr "Посмотрите на своего противника и нажмите [player_lock_on] чтобы захватить его в цель."
+
+#. Key:	58A0F8CA4168F8C0B6E1948AD3BB9A37
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_5.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_5.Text
+msgid "If you attack an enemy from behind, a backstab is executed."
+msgstr "Атаковав врага в спину, вы проведете особый удар."
 
 #. Key:	58EB056D4B0777C5148E908AF8D0B020
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_06.GWTD_Map_06:PersistentLevel.FistMasterBoss_844.DisplayName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_06.GWTD_Map_06:PersistentLevel.FistMasterBoss_844.DisplayName
 msgid "Fist Master"
-msgstr ""
+msgstr "Мастер Кулака"
 
 #. Key:	59D1434E4A456BF84B98468B90B5418B
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Stamina_Tip.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Stamina_Tip.Instruction
 msgid "Movements and attacks consume Stamina. If you run out of Stamina, your attack speed will drop, and you will be unable to run. Keep an eye on the not only Life bar, but also Stamina bar."
-msgstr ""
+msgstr "Разные движения и удары тратят Стамину. Если у вас закончится Стамина, скорость ваших атак упадет, а вы не сможете избежать удара. Поэтому, постарайтесь следить не только за полоской Здоровья, но и за Стаминой."
 
 #. Key:	5AD254E247B2FF4F847623BCA7AE87CE
 #. SourceLocation:	/Game/Data/Tables/HintByMonster.HintByMonster.WorkerEZ.HintTexts(1).HintTexts
@@ -729,13 +820,13 @@ msgstr ""
 #: /Game/Data/Tables/HintByMonster.HintByMonster.WorkerEZ.HintTexts(1).HintTexts
 #: /Game/Data/Tables/HintByMonster.HintByMonster.WorkerNoVest.HintTexts(1).HintTexts
 msgid "If an enemy doesn’t stagger or reel under your attack, combo attacks against the enemy is risky."
-msgstr ""
+msgstr "Если ваши удары не затормаживают противника, ваши комбо-приёмы смогут прервать ответной атакой."
 
 #. Key:	5AE5B66142B3BB07D1EA2898C1223769
 #. SourceLocation:	/Game/UMG/Options.Options_C:ExecuteUbergraph_Options [Script Bytecode]
 #: /Game/UMG/Options.Options_C:ExecuteUbergraph_Options [Script Bytecode]
 msgid "Are you sure you want to return to default settings? All previous changes will be erased."
-msgstr ""
+msgstr "Вы уверены, что хотите вернуть стандартные настройки? Все предыдущие изменения будут отменены."
 
 #. Key:	5B8C5E724C40C30BB9960D9030FFD637
 #. SourceLocation:	/Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
@@ -746,13 +837,19 @@ msgstr ""
 #: /Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 #: /Game/UMG/VendingMachine/VendingMachinePanel.VendingMachinePanel_C:WidgetTree.VM_DescriptionPanel.WidgetTree.NavKeyCap.Caption
 msgid "[ui_navigation] NAVIGATE"
-msgstr ""
+msgstr "[ui_navigation] НАВИГАЦИЯ"
 
 #. Key:	5B93F7C04873F2F5B3455FA6FC85ABA5
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_03.GWTD_Map_03:PersistentLevel.MyFloorMapAgent_44.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_03.GWTD_Map_03:PersistentLevel.MyFloorMapAgent_44.RegionName
 msgid "Underground  Level  5"
-msgstr ""
+msgstr "Подземелье Уровень 5"
+
+#. Key:	5BC084D04AC73E718E4DD38AE29CB3A2
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_4.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_4.Text
+msgid "MOVESETS"
+msgstr "ПРИЁМЫ"
 
 #. Key:	5C34D4964CE6FC8AA56389B56E599C21
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.TotemPole_662.MyPickUpComponent.PickUpText
@@ -761,7 +858,7 @@ msgstr ""
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.GuideTV_attack.MyPickUpComponent.PickUpText
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.TotemPole_662.MyPickUpComponent.PickUpText
 msgid "INTERACT"
-msgstr ""
+msgstr "ВЗАИМОДЕЙСТВОВАТЬ"
 
 #. Key:	5EC4E6CE4B21DE36AF04A2A208F7206A
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Session.InstructionEx
@@ -773,52 +870,61 @@ msgstr ""
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_1.InstructionEx
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Session.InstructionEx
 msgid "If you press [player_guard_left] or [player_guard_right] just before being hit, a counterattack is executed."
-msgstr ""
+msgstr "Если вы нажмете [player_guard_left] или [player_guard_right] прямо перед получением удара, вы контратакуете противника."
 
 #. Key:	5F31CF0A4637D8CC74921A9C6036B834
 #. SourceLocation:	/Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 #: /Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 msgid "[ui_register_quick_slot] QUICK SLOT"
-msgstr ""
+msgstr "[ui_register_quick_slot] БЫСТРЫЙ СЛОТ"
 
 #. Key:	5FE2DEE44C81718F0A62B4912C070EED
 #. SourceLocation:	/Game/Components/AdjustVideoModeComponent.AdjustVideoModeComponent_C:ExecuteUbergraph_AdjustVideoModeComponent [Script Bytecode]
 #: /Game/Components/AdjustVideoModeComponent.AdjustVideoModeComponent_C:ExecuteUbergraph_AdjustVideoModeComponent
 #: [Script Bytecode]
 msgid "Settings have been changed. Do you want to keep the new settings?"
-msgstr ""
+msgstr "Настройки были изменены. Вы хотите сохранить изменения?"
 
 #. Key:	6034605E46F24F859DEDCCBB47670F15
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_Tip.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_Tip.Instruction
 msgid "Dodging isn’t just for defense. In some cases, dodging to the side or back of the enemy is effective in backstabbing. However, dodging is not a solution for all matters. In many cases, guarding is more useful rather than dodging."
-msgstr ""
+msgstr "Уклонение можно использовать не только для защиты. Иногда, уклонившись влево или вправо, вы сможете нанести критический удар в спину. Но одними уклонениями не обойтись, во многих случаях блокирование удара сработает намного эффективнее."
 
 #. Key:	60996E5B47AE428703A624989CF6528E
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText
 #: [Script Bytecode]
 msgid "LOW"
-msgstr ""
+msgstr "НИЗКО"
 
 #. Key:	6101EECE4BF23D1D7022219039E28461
 #. SourceLocation:	/Game/UMG/MessageBox.MessageBox_C:WidgetTree.TextBlock_59.Text
 #: /Game/UMG/MessageBox.MessageBox_C:WidgetTree.TextBlock_59.Text
 msgid "NO"
-msgstr ""
+msgstr "НЕТ"
 
 #. Key:	627E62A54603DB0533C7AF932A1A6FCA
 #. SourceLocation:	/Game/UMG/BedUI.BedUI_C:WidgetTree.WakeUpButton.TitleText
 #: /Game/UMG/BedUI.BedUI_C:WidgetTree.WakeUpButton.TitleText
 msgid "Exit"
-msgstr ""
+msgstr "Выход"
 
 #. Key:	6340E3344E0BBB71C5B4AEADA9521D85
 #. SourceLocation:	/Game/UMG/DescriptionPanel.DescriptionPanel_C:GetDescriptionTexts [Script Bytecode]
 #: /Game/UMG/DescriptionPanel.DescriptionPanel_C:GetDescriptionTexts [Script
 #: Bytecode]
 msgid "{Key} ASSIGN"
-msgstr ""
+msgstr "{Key} НАЗНАЧИТЬ"
+
+#. Key:	643C37514BDD91B84908CAA9A6660E48
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_4.Text
+#. Key:	830AFE8E47443444D8A833A76EBBC028
+#. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_17.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_4.Text
+#: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_17.Text
+msgid "DODGE"
+msgstr "УКЛОНЕНИЕ"
 
 #. Key:	647AF700468FA7506F23B68ABF0DD093
 #. SourceLocation:	/Game/UMG/MainMenuOption.MainMenuOption_C:WidgetTree.BTN_Default.Caption
@@ -827,27 +933,27 @@ msgstr ""
 #: /Game/UMG/MainMenuOption.MainMenuOption_C:WidgetTree.BTN_Default.Caption
 #: /Game/UMG/SystemMenu.SystemMenu_C:GetDescriptionTexts [Script Bytecode]
 msgid "[ui_option_default] DEFAULT"
-msgstr ""
+msgstr "[ui_option_default] ПО УМОЛЧАНИЮ"
 
 #. Key:	64CF725641101C8D02128EAF3887691E
 #. SourceLocation:	/Game/UMG/BossHUD.BossHUD_C:WidgetTree.DummyPickUpTag.WidgetTree_4726.DescriptionWidget.Text
 #: /Game/UMG/BossHUD.BossHUD_C:WidgetTree.DummyPickUpTag.WidgetTree_4726.DescriptionWidget.Text
 msgid "PICK UP"
-msgstr ""
+msgstr "ПОДОБРАТЬ"
 
 #. Key:	669232464178DFB025491D80CAF09C23
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "FIELD OF VIEW"
-msgstr ""
+msgstr "FIELD OF VIEW"
 
 #. Key:	68DFC9AE4E0BF46DC38E69AFD2AE54F5
 #. SourceLocation:	/Game/Components/AdjustVideoModeComponent.AdjustVideoModeComponent_C:ExecuteUbergraph_AdjustVideoModeComponent [Script Bytecode]
 #: /Game/Components/AdjustVideoModeComponent.AdjustVideoModeComponent_C:ExecuteUbergraph_AdjustVideoModeComponent
 #: [Script Bytecode]
 msgid "Previous settings will be restored in"
-msgstr ""
+msgstr "Предыдущие настройки восстановятся через"
 
 #. Key:	6B1F0DF64F87C755D727D7A4DC673A39
 #. SourceLocation:	/Game/Maps/StartingLevel.StartingLevel:PersistentLevel.Janitor2.MyPickUpComponent.PickUpText
@@ -856,7 +962,7 @@ msgstr ""
 #: /Game/Maps/StartingLevel.StartingLevel:PersistentLevel.Janitor2.MyPickUpComponent.PickUpText
 #: /Game/Maps/StartingLevel.StartingLevel:PersistentLevel.PickUpChest_513.MyPickUpComponent.PickUpText
 msgid "SEARCH"
-msgstr ""
+msgstr "ПОИСК"
 
 #. Key:	6BCB40C442DBEB539F244696958D66AE
 #. SourceLocation:	/Game/UMG/BedUI.BedUI_C:WidgetTree.LevelUpButton.DescriptionText
@@ -865,19 +971,25 @@ msgstr ""
 #: /Game/UMG/BedUI.BedUI_C:WidgetTree.LevelUpButton.DescriptionText
 #: /Game/UMG/BedUI.BedUI_C:WidgetTree.LevelUpButton.WidgetTree.TextBlock_34.Text
 msgid "You can level up while sleeping."
-msgstr ""
+msgstr "Вы можете прокачаться пока спите."
 
 #. Key:	6C0C78264CC5203F5D1013B4484BA458
 #. SourceLocation:	/Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_73.Text
 #: /Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_73.Text
 msgid "Perks"
-msgstr ""
+msgstr "Умения"
 
 #. Key:	6F08D81F42D6CF91CA70E282AD0BDCF5
 #. SourceLocation:	/Game/UMG/Guide/GuideTV_Content_Counterattack.GuideTV_Content_Counterattack_C:WidgetTree.KeyCapWithText_C_146.Caption
 #: /Game/UMG/Guide/GuideTV_Content_Counterattack.GuideTV_Content_Counterattack_C:WidgetTree.KeyCapWithText_C_146.Caption
 msgid "COUNTER ATTACK LEFT : (Hold) [player_guard_left]  ( Just before being hit )"
-msgstr ""
+msgstr "КОНТРАТАКА СЛЕВА: (Зажмите) [player_guard_left]  ( Прямо перед тем, как вас атакуют )"
+
+#. Key:	7037CF084A3513CB60CAB49BB38FFF80
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_4.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_4.Text
+msgid "BACKSTAB"
+msgstr "УДАР В СПИНУ"
 
 #. Key:	7305C1AF49740BD4D0B9FFA1CAF22691
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.QuitGame.Caption
@@ -886,45 +998,57 @@ msgstr ""
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.QuitGame.Caption
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.QuitGame.Caption
 msgid "QUIT GAME"
-msgstr "게임 종료"
+msgstr "ВЫЙТИ ИЗ ИГРЫ"
 
 #. Key:	7323C4484FA77B5DB3287FA3746ABA12
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "MASTER VOLUME"
-msgstr ""
+msgstr "ОБЩАЯ ГРОМКОСТЬ"
 
 #. Key:	75A7CAB3440D8060E2F19CB606DA78F4
 #. SourceLocation:	/Game/UMG/Tutorial/TutorialSuccess.TutorialSuccess_C:WidgetTree.TextBlock_146.Text
 #: /Game/UMG/Tutorial/TutorialSuccess.TutorialSuccess_C:WidgetTree.TextBlock_146.Text
 msgid "SUCCESS"
-msgstr ""
+msgstr "УСПЕХ"
+
+#. Key:	75C19D3B4842DEFE88A949B09D02B90A
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_2.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_2.Text
+msgid "Their level of strength is shown in the round sign at the top-left corner of the screen."
+msgstr "Уровень их силы отображен в круглом символе в верхнем левом углу экрана."
 
 #. Key:	75E346A848992DABBEBDB5BA356E1569
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.ShopComponent.DisplayName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.ShopComponent.DisplayName
 msgid "Vendor"
-msgstr ""
+msgstr "Продавец"
 
 #. Key:	77264ACD45E8539AF09A8EB90A75E12F
 #. SourceLocation:	/Game/UMG/SaveSlot.SaveSlot_C:ExecuteUbergraph_SaveSlot [Script Bytecode]
 #: /Game/UMG/SaveSlot.SaveSlot_C:ExecuteUbergraph_SaveSlot [Script Bytecode]
 msgid "You are about to delete a save file [{SaveName}]. If you do that you will no longer be able to load it. Are you sure?"
-msgstr "세이브 파일 [{SaveName}]을(를) 지우려고 합니다. 파일을 삭제하면 더 이상 불러올 수 없습니다. 확실합니까?"
+msgstr "Вы собираетесь удалить сохранение [{SaveName}]. Сделав это, вы больше не сможете его загрузить. Вы уверены?"
 
 #. Key:	77971BAF42FFDBEED9397E8EA306ED7D
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText
 #: [Script Bytecode]
 msgid "CUSTOM"
-msgstr ""
+msgstr "ПОЛЬЗОВАТЕЛЬСКОЕ"
 
 #. Key:	786269ED43CCBB2A023E43ABC05086C4
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.GuardBreak_Session.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.GuardBreak_Session.Missions(0).Missions.MissionDescription
 msgid "(When locking on) Hold [player_look_down] + attack to guard break."
-msgstr ""
+msgstr "(Захватив врага в цель) Зажмите [player_look_down] + атакуйте чтобы пробить блок."
+
+#. Key:	7A0395804AEF5F2894847586B5B43A41
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_6.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_6.Text
+msgid "Some enemies are impossible to backstab."
+msgstr "Некоторым противникам невозможно провести специальную атаку в спину."
 
 #. Key:	7A3BDABA419DAAFA59AA029E8000E1D6
 #. SourceLocation:	/Game/Blueprints/BaseClass/BP_DoorBase.BP_DoorBase_C:GetPickUpTagText [Script Bytecode]
@@ -932,31 +1056,31 @@ msgstr ""
 #: /Game/Blueprints/BaseClass/BP_DoorBase.BP_DoorBase_C:GetPickUpTagText
 #: [Script Bytecode]
 msgid "DOOR IS LOCKED FROM THE OTHER SIDE"
-msgstr ""
+msgstr "ЗАПЕРТО С ДРУГОЙ СТОРОНЫ"
 
 #. Key:	7D2785AF44B22851A963FDAF09671E0D
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_22.TabName
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_22.TabName
 msgid "STATUS"
-msgstr ""
+msgstr "СТАТУС"
 
 #. Key:	7D66937F4B14A5AF072AFFA8CD9BAD15
 #. SourceLocation:	/Game/UMG/SystemMenu.SystemMenu_C:GetDescriptionTexts [Script Bytecode]
 #: /Game/UMG/SystemMenu.SystemMenu_C:GetDescriptionTexts [Script Bytecode]
 msgid "[ui_ok] SELECT"
-msgstr ""
+msgstr "[ui_ok] ВЫБРАТЬ"
 
 #. Key:	7D6C97474CC172396DCAAA9CE081E387
 #. SourceLocation:	/Game/UMG/Ending.Ending_C:WidgetTree.BTN_Back.Caption
 #: /Game/UMG/Ending.Ending_C:WidgetTree.BTN_Back.Caption
 msgid "[ui_cancel] EXIT TO MAIN MENU"
-msgstr ""
+msgstr "[ui_cancel] ГЛАВНОЕ МЕНЮ"
 
 #. Key:	7E131D4240D004C6F49ECA89FE8B002A
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Session.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Session.Instruction
 msgid "Lock-on is the beginning and basic of fighting."
-msgstr ""
+msgstr "Захват противника в цель, это то, с чего стоит начинать бой."
 
 #. Key:	8001BC0544584CFB0CDC6F8804541FE3
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetCrosshairShowTypeText [Script Bytecode]
@@ -966,49 +1090,49 @@ msgstr ""
 #: [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetToggleText
 msgid "OFF"
-msgstr ""
+msgstr "ВЫКЛ."
+
+#. Key:	8125BC144F1A5EB6BFC0C9AC9C1BA0CB
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_9.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_9.Text
+msgid "When you kick guarding enemies, they lose control and balance."
+msgstr "Если вы пнете защищающегося противника, то он потеряет баланс."
 
 #. Key:	820A1E0F4BE9A4B88C1129A356C950F9
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkMessages(3).TalkMessages
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkMessages(3).TalkMessages
 msgid "Anyway, I might have something you need."
-msgstr ""
-
-#. Key:	830AFE8E47443444D8A833A76EBBC028
-#. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_17.Text
-#: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_17.Text
-msgid "DODGE"
-msgstr ""
+msgstr "Кстати, возможно у меня есть что-то, что тебе понадобится."
 
 #. Key:	8443C3864047662EF977F7994D184BF0
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_05.GWTD_Map_05:PersistentLevel.MyFloorMapAgent_44.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_05.GWTD_Map_05:PersistentLevel.MyFloorMapAgent_44.RegionName
 msgid "Underground  Level  8"
-msgstr ""
+msgstr "Подземелье Уровень 8"
 
 #. Key:	848ADA14441B7730186669BD2FED3643
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_21.TabName
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_21.TabName
 msgid "MISC"
-msgstr ""
+msgstr "РАЗНОЕ"
 
 #. Key:	8532917945C52195F1FAC7AA8BABBC12
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.NewGame.Caption
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.NewGame.Caption
 msgid "NEW GAME"
-msgstr "새 게임"
+msgstr "НОВАЯ ИГРА"
 
 #. Key:	86934F754DACCEDB219F029E7E1D0163
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_07.GWTD_Map_07:PersistentLevel.MyFloorMapAgent_44.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_07.GWTD_Map_07:PersistentLevel.MyFloorMapAgent_44.RegionName
 msgid "Underground  Level  6"
-msgstr ""
+msgstr "Подземелье Уровень 6"
 
 #. Key:	8CB984FD4752134A0C41BDBE0AFA32D2
 #. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_10.Text
 #: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_10.Text
 msgid "LOCK ON"
-msgstr ""
+msgstr "ЗАХВАТ ЦЕЛИ"
 
 #. Key:	8DC61E4246154375DC88A7B0A1A743FF
 #. SourceLocation:	/Game/UMG/SystemMenu.SystemMenu_C:GetDescriptionTexts [Script Bytecode]
@@ -1020,250 +1144,286 @@ msgstr ""
 #: /Game/UMG/MainMenuOption.MainMenuOption_C:WidgetTree.KeyCapWithText_0.Caption
 #: /Game/UMG/SystemMenu.SystemMenu_C:GetDescriptionTexts [Script Bytecode]
 msgid "[ui_nav_left_right] INC/DEC"
-msgstr "[ui_nav_left_right] 변경"
+msgstr "[ui_nav_left_right] УВЕЛ./УМЕН."
 
 #. Key:	8DF313304D6D74827B8C35A0EE735B3E
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "RESOLUTION"
-msgstr ""
+msgstr "РАЗРЕШЕНИЕ"
+
+#. Key:	8DFA5A7243076DD373A824AD2C796869
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_8.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_8.Text
+msgid "USE ITEM"
+msgstr "ИСПОЛЬЗОВАТЬ ПРЕДМЕТ"
 
 #. Key:	8E16AD5C43AD8C0D01E77DB05E0BABD7
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.FreePlay_Session.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.FreePlay_Session.Instruction
 msgid "Practice freely. When you are ready, go through the door."
-msgstr ""
+msgstr "Попрактикуйтесь. Когда будете готовы, войдите в дверь позади вас."
 
 #. Key:	9003758642EFA1A5AAE3AC9B965D1421
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.TutorialW.Caption
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.TutorialW.Caption
 msgid "TUTORIAL"
-msgstr ""
+msgstr "ОБУЧЕНИЕ"
 
 #. Key:	902BFDA14501E48F387811A5E2FAAFBF
 #. SourceLocation:	/Game/UMG/ABText_Level.Default__ABText_Level_C.KeyText
 #: /Game/UMG/ABText_Level.Default__ABText_Level_C.KeyText
 msgid "Level"
-msgstr ""
+msgstr "Уровень"
 
 #. Key:	921B7065498717B0F3F29BB35C9F2971
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "BUTTON GUIDE DISPLAY"
-msgstr ""
+msgstr "ОТОБРАЖЕНИЕ РАСКЛАДКИ"
 
 #. Key:	93270323401E43087A77508FE86F1D44
 #. SourceLocation:	/Game/UMG/EssenceHUDWidget.EssenceHUDWidget_C:WidgetTree.TextBlock_30.Text
 #: /Game/UMG/EssenceHUDWidget.EssenceHUDWidget_C:WidgetTree.TextBlock_30.Text
 msgid "ESSENCE : "
-msgstr ""
+msgstr "ЭССЕНЦИЯ : "
 
 #. Key:	93AEDFD44B879E7ACC6B19B7216B24AB
 #. SourceLocation:	/Game/UMG/GameCredits.GameCredits_C:WidgetTree.TextButton_WithKeyCap.Caption
 #: /Game/UMG/GameCredits.GameCredits_C:WidgetTree.TextButton_WithKeyCap.Caption
 msgid "[ui_cancel] BACK "
-msgstr ""
+msgstr "[ui_cancel] НАЗАД "
 
 #. Key:	940BAA5C40030CFB12982ABF28D81C5C
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.MyFloorMapAgent_C_2.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.MyFloorMapAgent_C_2.RegionName
 msgid "Underground  Level  1"
-msgstr ""
+msgstr "Подземелье Уровень 1"
 
 #. Key:	952C49A24ED6A2E59C020C854B7EF6D8
 #. SourceLocation:	/Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 #: /Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 msgid "[ui_inven_use] EQUIP"
-msgstr ""
+msgstr "[ui_inven_use] Экипировать"
 
 #. Key:	95529A6446C247FF8B9A1986B68FFFC0
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Session.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Session.Instruction
 msgid "For counterattack, the timing is important. Also, you can hold the buttons to block left or right."
-msgstr ""
+msgstr "Поймайте нужный момент чтобы успешно провести контратаку. Также, зажав кнопки контратаки, вы можете блокировать удары с разных сторон."
 
 #. Key:	96B9528E445258FE21093FAB4B7C3E26
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.PickUpNote_494.MyPickUpComponent.PickUpText
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.PickUpNote_494.MyPickUpComponent.PickUpText
 msgid "READ"
-msgstr ""
+msgstr "ЧИТАТЬ"
 
 #. Key:	98903D82438951A0055E01840C28D6EC
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.Options.Caption
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.Options.Caption
 msgid "OPTIONS"
-msgstr "옵션"
+msgstr "НАСТРОЙКИ"
 
 #. Key:	994EF5C742D9E5A116F3FE9E1E06D5E7
 #. SourceLocation:	/Game/UMG/DescriptionPanel.DescriptionPanel_C:GetDescriptionTexts [Script Bytecode]
 #: /Game/UMG/DescriptionPanel.DescriptionPanel_C:GetDescriptionTexts [Script
 #: Bytecode]
 msgid "[ui_quick_slot_0] [ui_quick_slot_1] [ui_quick_slot_2] [ui_quick_slot_3]"
-msgstr ""
+msgstr "[ui_quick_slot_0] [ui_quick_slot_1] [ui_quick_slot_2] [ui_quick_slot_3]"
 
 #. Key:	9975984448514DABC470E391A45401F6
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_1.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_1.Missions(0).Missions.MissionDescription
 msgid "Press [player_attack_right](right), [player_attack_right](right), [player_attack_right](right) to execute the combo attack."
-msgstr ""
+msgstr "Нажмите [player_attack_right](справа), [player_attack_right](справа), [player_attack_right](справа) чтобы провести комбо-атаку."
 
 #. Key:	9A0B96494763E1663DA532965067F37A
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_03.GWTD_Map_03:PersistentLevel.StakeBoss2_650.DisplayName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_03.GWTD_Map_03:PersistentLevel.StakeBoss2_650.DisplayName
 msgid "The Stake"
-msgstr ""
+msgstr "Чернокол"
 
 #. Key:	9A27964D41334AD51BE25A9AE6EDB887
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Off.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Off.Missions(0).Missions.MissionDescription
 msgid "Press [player_lock_on] to release the target."
-msgstr ""
+msgstr "Нажмите [player_lock_on] чтобы снять захват с цели."
 
 #. Key:	9B4935F74F03615FA9D6C4B353EBBCFE
 #. SourceLocation:	/Game/UMG/YouAreDead.YouAreDead_C:WidgetTree.KeyCapWithText.Caption
 #: /Game/UMG/YouAreDead.YouAreDead_C:WidgetTree.KeyCapWithText.Caption
 msgid "Press [ui_ok] to continue"
-msgstr ""
+msgstr "Нажмите [ui_ok] чтобы продолжить"
 
 #. Key:	9B9F37494B2E097A7187F298D78BA8B0
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_0.Missions(0).Missions.MissionDescriptionEx
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_0.Missions(0).Missions.MissionDescriptionEx
 msgid "He attacks from the right."
-msgstr ""
+msgstr "Он атакует вас справа."
 
 #. Key:	9CF8E50C4DBD6E9246C078AA62F0684D
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "ANTIALIASING"
-msgstr ""
+msgstr "ТИП СГЛАЖИВАНИЯ"
 
 #. Key:	9E24AED348E1723DE0D9AF8443F5FDCB
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "POST PROCESSING"
-msgstr ""
+msgstr "ПОСТ-ПРОЦЕССИНГ"
 
 #. Key:	9F73596149AA33CBBC9BF2B6EAAB1471
 #. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_13.Text
 #: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_13.Text
 msgid "COUNTER"
-msgstr ""
+msgstr "КОНТРАТАКА"
 
 #. Key:	A00E9E8048804169532124B0A40A5F28
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.bed_002.MyPickUpComponent.PickUpText
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.bed_002.MyPickUpComponent.PickUpText
 msgid "SLEEP"
-msgstr ""
+msgstr "СПАТЬ"
 
 #. Key:	A015C83E41E559F2CB316E92687D3A4E
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.BTN_Buy.Caption
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.BTN_Buy.Caption
 msgid "Get the Full Version on Steam"
-msgstr ""
+msgstr "Купить полную версию в Steam"
 
 #. Key:	A03C750D49DA76078B9119B265A6C23E
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_Session.Missions(1).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_Session.Missions(1).Missions.MissionDescription
 msgid "Press [player_attack_right] to attack right and hit the opponent."
-msgstr ""
+msgstr "Нажмите [player_attack_right] чтобы атаковать справа и ударьте противника."
+
+#. Key:	A0AB14E1425B54A5213B50B9F826D526
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_8.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_8.Text
+msgid "STAMINA"
+msgstr "СТАМИНА"
 
 #. Key:	A0CC8239443AA62F394092B7C399FCEC
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_23.TabName
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_23.TabName
 msgid "SYSTEM"
-msgstr ""
+msgstr "СИСТЕМА"
 
 #. Key:	A0FFF10A48762C35793A6A98EC43D951
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.GuardBreak_0.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.GuardBreak_0.Missions(0).Missions.MissionDescription
 msgid "Guard break and punch the staggered opponent."
-msgstr ""
+msgstr "Пробейте блок и ударьте расстерянного противника."
 
 #. Key:	A19255A64960C7BFAD283D99F8EF9699
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.DumpyDemonBoss_C_2.DisplayName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.DumpyDemonBoss_C_2.DisplayName
 msgid "Ground Meat"
-msgstr ""
+msgstr "Мясник"
 
 #. Key:	A1962D86426F35007F1073AF8834CB72
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_02.GWTD_Map_01_02:PersistentLevel.MyFloorMapAgent_44.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_02.GWTD_Map_01_02:PersistentLevel.MyFloorMapAgent_44.RegionName
 msgid "Underground  Level  3"
-msgstr ""
+msgstr "Подземелье Уровень 3"
 
 #. Key:	A2A8122D4C4317BD9A210E9DE8028C7D
 #. SourceLocation:	/Game/Blueprints/Placeables/TotemPole.TotemPole_C:ExecuteUbergraph_TotemPole [Script Bytecode]
 #: /Game/Blueprints/Placeables/TotemPole.TotemPole_C:ExecuteUbergraph_TotemPole
 #: [Script Bytecode]
 msgid "Are you sure you want to make offerings of {Essence} Essence?"
-msgstr ""
+msgstr "Вы уверены, что хотите приподнести {Essence} Эссенции?"
 
 #. Key:	A37F7D844B519D63DB9EEC8CA6D19220
 #. SourceLocation:	/Game/UMG/DescriptionPanel.DescriptionPanel_C:GetDescriptionTexts [Script Bytecode]
 #: /Game/UMG/DescriptionPanel.DescriptionPanel_C:GetDescriptionTexts [Script
 #: Bytecode]
 msgid "[ui_navigation]"
-msgstr ""
+msgstr "[ui_navigation]"
+
+#. Key:	A39717854EC75EBF7484419DD90F8546
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_14.Text
+#. Key:	B3E86267443DF71403251D9847B390A4
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_25.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_14.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_25.Text
+msgid "(HOLD)"
+msgstr "(УДЕРЖИВАЙТЕ)"
 
 #. Key:	A48C61E440B0FCE9B95789BC3958FC8B
 #. SourceLocation:	/Game/Blueprints/Placeables/BP_TutorialDoor.BP_TutorialDoor_C:ExecuteUbergraph_BP_TutorialDoor [Script Bytecode]
 #: /Game/Blueprints/Placeables/BP_TutorialDoor.BP_TutorialDoor_C:ExecuteUbergraph_BP_TutorialDoor
 #: [Script Bytecode]
 msgid "Are you sure you want to exit?"
-msgstr ""
+msgstr "Вы уверены что хотите выйти?"
 
 #. Key:	A4F416AF4DFA65AC7C168DA82A8F28A5
 #. SourceLocation:	/Game/UMG/SaveSlot.Default__SaveSlot_C.Caption
 #: /Game/UMG/SaveSlot.Default__SaveSlot_C.Caption
 msgid "Caption"
-msgstr ""
+msgstr "Заголовок"
 
 #. Key:	A6800B074E6A0DA3C50282B47E9DF28E
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_19.TabName
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.Tab_C_19.TabName
 msgid "WEAPON"
-msgstr ""
+msgstr "ОРУЖИЕ"
 
 #. Key:	A699961D4B615784561AF681DE2A22F3
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_04.GWTD_Map_04:PersistentLevel.MyFloorMapAgent_44.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_04.GWTD_Map_04:PersistentLevel.MyFloorMapAgent_44.RegionName
 msgid "Underground  Level  7"
-msgstr ""
+msgstr "Подземелье Уровень 7"
 
 #. Key:	A74261AE41DAD021F4D23D8078FFA160
 #. SourceLocation:	/Game/UMG/AttributesWidget.AttributesWidget_C:WidgetTree_249.TextBlock_68.Text
 #: /Game/UMG/AttributesWidget.AttributesWidget_C:WidgetTree_249.TextBlock_68.Text
 msgid "Attributes"
-msgstr ""
+msgstr "Аттрибуты"
 
 #. Key:	A7B0DAB24C714CCC2BBC64895DFA973E
 #. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_3.Text
 #: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_3.Text
 msgid "INVENTORY"
-msgstr ""
+msgstr "ИНВЕНТАРЬ"
+
+#. Key:	A7D2C44E43A54EDFD2E5A691ADF79BE5
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_9.Text
+#. Key:	F1F7D7344140B0C711ADD4A15327231F
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_3.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_9.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_3.Text
+msgid "(When Locking on)"
+msgstr "(С захваченной целью)"
 
 #. Key:	AB18713B44E8ED164EF4B582FCED8058
 #. SourceLocation:	/Game/UMG/Guide/GuideTV_Content_Attack.GuideTV_Content_Attack_C:WidgetTree.KeyCapWithText_C_146.Caption
 #: /Game/UMG/Guide/GuideTV_Content_Attack.GuideTV_Content_Attack_C:WidgetTree.KeyCapWithText_C_146.Caption
 msgid "ATTACK LEFT: [player_attack_left]"
-msgstr ""
+msgstr "УДАР СЛЕВА: [player_attack_left]"
+
+#. Key:	ABF82FD04A9B75AB4E0176BA348EEC07
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_5.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_5.Text
+msgid "LOCK-ON ENEMY"
+msgstr "ЗАХВАТ ЦЕЛИ"
 
 #. Key:	AC66478D461528950ED0BF9350419E72
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Shift.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.LockOn_Shift.Missions(0).Missions.MissionDescription
 msgid "Use [player_lock_shift] to change targets."
-msgstr ""
+msgstr "Используйте [player_lock_shift] чтобы сменить цель."
 
 #. Key:	ACA209C5494ED8021859AAA0C0561E5D
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "EFFECTS"
-msgstr ""
+msgstr "ЭФФЕКТЫ"
 
 #. Key:	AD316A4747E0D2A0C87B289DE532BF30
 #. SourceLocation:	/Game/Blueprints/Placeables/BP_TutorialDoor.BP_TutorialDoor_C:ExecuteUbergraph_BP_TutorialDoor [Script Bytecode]
@@ -1274,48 +1434,69 @@ msgid ""
 "\r\n"
 "You may miss out on important hints."
 msgstr ""
+"Вы уверены что хотите пропустить обучение?\n"
+"\n"
+"Вы можете пропустить полезные подсказки."
 
 #. Key:	AF527D6E4B6494F463083F932AFCB25E
 #. SourceLocation:	/Game/UMG/Tutorial/TutorialStamina.TutorialStamina_C:WidgetTree.TextBlock_1.Text
 #: /Game/UMG/Tutorial/TutorialStamina.TutorialStamina_C:WidgetTree.TextBlock_1.Text
 msgid "The STAMINA BAR represents the amount of stamina."
-msgstr ""
+msgstr "ПОЛОСКА СТАМИНЫ отображает вашу стамину."
+
+#. Key:	B1C3B419474859F2938FB097BC4C5F79
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_17.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_17.Text
+msgid "OR"
+msgstr "ИЛИ"
 
 #. Key:	B2A113FC4BD899823A95B8AAEF650D6B
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_1.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_1.Missions(0).Missions.MissionDescription
 msgid "Press [player_guard_left] or [player_guard_right] just before being hit in order to execute a counterattack."
-msgstr ""
+msgstr "Нажмите [player_guard_left] или [player_guard_right] прямо перед получением удара для проведения контратаки."
 
 #. Key:	B541C5A44196899A055FC8AA05E9D0D8
 #. SourceLocation:	/Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_29.Text
 #: /Game/UMG/EquipPanel.EquipPanel_C:WidgetTree_249.TextBlock_29.Text
 msgid "Equipment"
-msgstr ""
+msgstr "Экипировка"
 
 #. Key:	B6C68D074D428056C4B19AB94DF66AE8
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.TrapSwitch_1202.MyPickUpComponent.PickUpText
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.TrapSwitch_1202.MyPickUpComponent.PickUpText
 msgid "ACTIVATE"
-msgstr ""
+msgstr "АКТИВИРОВАТЬ"
+
+#. Key:	B87C9C97497BE9487FE5379FE2945EFD
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_1.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_KB.WidgetTree.TextBlock_1.Text
+msgid "MENU & INVENTORY"
+msgstr "МЕНЮ И ИНВЕНТАРЬ"
+
+#. Key:	B90D4D064FDF6881083882A096791C45
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_1.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_03.WidgetTree.TextBlock_1.Text
+msgid "Your death makes your enemy stronger."
+msgstr "Ваша смерть делает ваших врагов сильнее."
 
 #. Key:	BA7988A04CE6C1BA5416729DE68E2AD3
 #. SourceLocation:	/Game/UMG/VendingMachine/VendingMachinePanel.VendingMachinePanel_C:WidgetTree.VM_DescriptionPanel.WidgetTree.BuyKeyCap.Caption
 #: /Game/UMG/VendingMachine/VendingMachinePanel.VendingMachinePanel_C:WidgetTree.VM_DescriptionPanel.WidgetTree.BuyKeyCap.Caption
 msgid "[ui_ok] BUY"
-msgstr ""
+msgstr "[ui_ok] КУПИТЬ"
 
 #. Key:	BC1C990446E08C5012BF64A2A6054B63
 #. SourceLocation:	/Game/Blueprints/Core/Merchant.Default__Merchant_C.TalkMessages(0).TalkMessages
 #: /Game/Blueprints/Core/Merchant.Default__Merchant_C.TalkMessages(0).TalkMessages
 msgid "Hello."
-msgstr ""
+msgstr "Здравствуй."
 
 #. Key:	BC430CA24FA2CCDC01FDE289F2E099A2
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Guard_Session.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Guard_Session.Missions(0).Missions.MissionDescription
 msgid "Hold [player_guard_left] + [player_guard_right] to block an enemy’s attack."
-msgstr ""
+msgstr "Зажмите [player_guard_left] + [player_guard_right] чтобы блокировать атаку противника."
 
 #. Key:	BD1C373A41B359F85D7F7C839633162F
 #. SourceLocation:	/Game/UMG/SaveSlot.SaveSlot_C:GetDescriptionTexts [Script Bytecode]
@@ -1324,150 +1505,168 @@ msgstr ""
 #: /Game/UMG/ManageSaveSlot.ManageSaveSlot_C:WidgetTree.BTN_Delete.Caption
 #: /Game/UMG/SaveSlot.SaveSlot_C:GetDescriptionTexts [Script Bytecode]
 msgid "[ui_delete_save]  DELETE"
-msgstr ""
+msgstr "[ui_delete_save]  УДАЛИТЬ"
 
 #. Key:	BEE0F1964AC41C518FF1F0B61B9523B4
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.Resume.Caption
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.Resume.Caption
 msgid "RESUME"
-msgstr ""
+msgstr "ПРОДОЛЖИТЬ"
 
 #. Key:	BF92E5704DBA8AC10E2515B37174A1FF
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_1.Missions(1).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_1.Missions(1).Missions.MissionDescription
 msgid "Press [player_attack_right](right), [player_attack_left](left), [player_attack_right](right) to execute the combo attack."
-msgstr ""
+msgstr "Нажмите [player_attack_right](справа), [player_attack_left](слева), [player_attack_right](справа) чтобы провести комбо-атаку."
 
 #. Key:	C0053A184E6F4C3AFBBB2B999AFF6632
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "GAMMA"
-msgstr ""
+msgstr "ГАММА"
 
 #. Key:	C01E15B9485957B5CF0AFBA1DE18F71B
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText
 #: [Script Bytecode]
 msgid "MEDIUM"
-msgstr ""
+msgstr "СРЕДНЕ"
 
 #. Key:	C046B68D426C0D8CEBFF75B8765848CF
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "ANTIALIASING QUALITY"
-msgstr ""
+msgstr "СГЛАЖИВАНИЕ"
 
 #. Key:	C1CFF30E49F4D2D06BCC0A9E30BAE110
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetQualityText
 #: [Script Bytecode]
 msgid "ERROR"
-msgstr ""
+msgstr "ОШИБКА"
 
 #. Key:	C305E0044B80BC0958A651A9C1F524C0
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.MyFloorMapAgent_44.RegionName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.MyFloorMapAgent_44.RegionName
 msgid "Underground  Level  2"
-msgstr ""
+msgstr "Подземелье Уровень 2"
 
 #. Key:	C38CCB324B9C94183D521C8214BF4A79
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkMessages(2).TalkMessages
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkMessages(2).TalkMessages
 msgid "Go deeper. You may find your person."
-msgstr ""
+msgstr "Отправляйся глубже. Возможно, ты найдешь того, кого потерял."
 
 #. Key:	C42AAA70419D8F54F797179A55C08F93
 #. SourceLocation:	/Game/UMG/Tutorial/TutorialDialog.TutorialDialog_C:WidgetTree.InstructionWEx.Caption
 #: /Game/UMG/Tutorial/TutorialDialog.TutorialDialog_C:WidgetTree.InstructionWEx.Caption
 msgid "Press [player_lock_on] to lock on."
-msgstr ""
+msgstr "Нажмите [player_lock_on] чтобы захватить противника в цель."
+
+#. Key:	C4504FFF4DBA71BC4F249D9ABC0846E6
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_8.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_8.Text
+msgid "GUARD BREAK"
+msgstr "ПРОБИТЬ БЛОК"
+
+#. Key:	C543503541ABFA393AF395A33E7D60E2
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_16.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_16.Text
+msgid "COUNTERATTACK RIGHT"
+msgstr "КОНТРАТАКА СПРАВА"
 
 #. Key:	C763CA5F46A57483D9CE7C83EB8EA206
 #. SourceLocation:	/Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 #: /Game/UMG/InventorySlot.InventorySlot_C:GetDescriptionText [Script Bytecode]
 msgid "[ui_inven_use] USE"
-msgstr ""
+msgstr "[ui_inven_use] ИСПОЛЬЗОВАТЬ"
 
 #. Key:	C7A5D8A4474411035366CEB443EBD949
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "VSYNC"
-msgstr ""
+msgstr "ВЕРТ. СИНХРОНИЗАЦИЯ"
 
 #. Key:	C8D73EB8476F3BFB33E611800D8F5585
 #. SourceLocation:	/Game/UMG/Dialog/DialogBranch.DialogBranch_C:WidgetTree.TextButtonW_Buy.Caption
 #: /Game/UMG/Dialog/DialogBranch.DialogBranch_C:WidgetTree.TextButtonW_Buy.Caption
 msgid "Buy"
-msgstr ""
+msgstr "Купить"
+
+#. Key:	C90CF3664E0B2DFE40831397A435C117
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_3.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_02.WidgetTree.TextBlock_3.Text
+msgid "You cannot counterattack on some enemies, e.g. sledgehammer labor worker."
+msgstr "Некоторых врагов невозможно контратаковать, например рабочего с кувалдой."
 
 #. Key:	C9169F3A478E72EE3A0C5F8D366CA46F
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "MUSIC VOLUME"
-msgstr ""
+msgstr "ГРОМКОСТЬ МУЗЫКИ"
 
 #. Key:	C95654CC4A4E0A3884A3898A01811DDE
 #. SourceLocation:	/Game/Blueprints/BaseClass/BP_DoorBase.BP_DoorBase_C:GetPickUpTagText [Script Bytecode]
 #: /Game/Blueprints/BaseClass/BP_DoorBase.BP_DoorBase_C:GetPickUpTagText
 #: [Script Bytecode]
 msgid "USE KEY TO OPEN"
-msgstr ""
+msgstr "ИСПОЛЬЗУЙТЕ КЛЮЧ ЧТОБЫ ОТКРЫТЬ"
 
 #. Key:	C9D0C5D64053E5329D949ABFA5CF1D1C
 #. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.TextBlock_299.Text
 #: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.TextBlock_299.Text
 msgid "TOGGLE GUIDE"
-msgstr ""
+msgstr "ВКЛЮЧИТЬ ПОДСКАЗКИ"
 
 #. Key:	C9FFE28E4194DB28819008ADD0134E37_AAM_FXAA1
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText
 #: [Script Bytecode]
 msgid "FXAA"
-msgstr ""
+msgstr "FXAA"
 
 #. Key:	C9FFE28E4194DB28819008ADD0134E37_AAM_None0
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsValueText
 #: [Script Bytecode]
 msgid "NONE"
-msgstr ""
+msgstr "НЕТ"
 
 #. Key:	CE7259F246B3758DAEBB539A6C8AAA79
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_0.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_0.Missions(0).Missions.MissionDescription
 msgid "Press [player_guard_right] just before being hit in order to execute a counterattack."
-msgstr ""
+msgstr "Нажмите [player_guard_right] прямо перед тем, как вас ударят, чтобы контратаковать."
 
 #. Key:	CF5F37814E5DE619280D1AB795E19608
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "RESOLUTION SCALE"
-msgstr ""
+msgstr "3D РАЗРЕШЕНИЕ"
 
 #. Key:	CFB496884B20A4AD2D24ECB3B124BAD4
 #. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.TextBlock_45.Text
 #: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.TextBlock_45.Text
 msgid "Quick Guide : F1 | "
-msgstr ""
+msgstr "Гайд: F1 | "
 
 #. Key:	D38041B743592D9B480004997EEDB5D7
 #. SourceLocation:	/Game/UMG/Guide/GuideTV_Content_Dodge.GuideTV_Content_Dodge_C:WidgetTree.KeyCapWithText_145.Caption
 #: /Game/UMG/Guide/GuideTV_Content_Dodge.GuideTV_Content_Dodge_C:WidgetTree.KeyCapWithText_145.Caption
 msgid "DODGE  :  [player_move]   +   [player_dodge]"
-msgstr ""
+msgstr "УКЛОНЕНИЕ: [player_move]   +   [player_dodge]"
 
 #. Key:	D464E0574DE07FF5099958BA7C678BC4
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "SFX VOLUME"
-msgstr ""
+msgstr "ГРОМКОСТЬ ЭФФЕКТОВ"
 
 #. Key:	DBDD46F64C24050441C06FAE71F20C80
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.HowToPlayW.Caption
@@ -1476,201 +1675,213 @@ msgstr ""
 #: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.TextBlock_522.Text
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.HowToPlayW.Caption
 msgid "HOW TO PLAY"
-msgstr ""
+msgstr "КАК ИГРАТЬ"
 
 #. Key:	DD1F6EE24159B3404CCBDD8C6D0A0546
 #. SourceLocation:	/Game/UMG/GameCredits.GameCredits_C:WidgetTree.TextBlock_10.Text
 #: /Game/UMG/GameCredits.GameCredits_C:WidgetTree.TextBlock_10.Text
 msgid "THANK YOU FOR PLAYING!"
-msgstr ""
+msgstr "СПАСИБО ЗА ИГРУ!"
 
 #. Key:	DD786F63448B031F73DE69992E74194B
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "CROSSHAIR"
-msgstr ""
+msgstr "ПРИЦЕЛ"
 
 #. Key:	DEE4415A4681F5CA01D9CCA3F933EFAB
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.Options.Caption
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.Options.Caption
 msgid "SETTINGS"
-msgstr ""
+msgstr "НАСТРОЙКИ"
 
 #. Key:	DEED9B094AFE3B8436ED10BBE5238421
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "VIBRATION"
-msgstr ""
+msgstr "ВИБРАЦИЯ"
 
 #. Key:	DF55A8414AA6E731458F8CB5C239B5B3
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkMessages(0).TalkMessages
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01_01.GWTD_Map_01_01:PersistentLevel.Peddler_1882.TalkMessages(0).TalkMessages
 msgid "You lost someone, too?"
-msgstr ""
+msgstr "Что, ты тоже кого-то потерял?"
 
 #. Key:	E0AC85F840202309C430ABA336239F5A
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "QUALITY"
-msgstr ""
+msgstr "КАЧЕСТВО ГРАФИКИ"
 
 #. Key:	E31FDEF041591E1EEC9336B8368698A2
 #. SourceLocation:	/Game/Components/AdjustVideoModeComponent.AdjustVideoModeComponent_C:ExecuteUbergraph_AdjustVideoModeComponent [Script Bytecode]
 #: /Game/Components/AdjustVideoModeComponent.AdjustVideoModeComponent_C:ExecuteUbergraph_AdjustVideoModeComponent
 #: [Script Bytecode]
 msgid "(If the game window is stuck in a corner, restarting the game will reset the position.)"
-msgstr ""
+msgstr "(Если окно игры застряло в углу экрана, перезапуск поможет решить эту проблему.)"
 
 #. Key:	E35CAA7D48022CF825B43B8894F92070
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "TEXTURES"
-msgstr ""
+msgstr "ТЕКСТУРЫ"
 
 #. Key:	E3FFEA2940B6C1D2F18A309E6164E7CA
 #. SourceLocation:	/Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_7.Text
 #: /Game/UMG/SaveSlot.SaveSlot_C:WidgetTree.TextBlock_7.Text
 msgid "CHARACTER LEVEL"
-msgstr ""
+msgstr "УРОВЕНЬ ПЕРСОНАЖА"
 
-#. Key:	E49B0F954743E698D2F81E9A89026C6E
-#. SourceLocation:	/Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_15.Text
-#: /Game/UMG/HUDWidget.HUDWidget_C:WidgetTree_1.HUD_InputGuide_55.WidgetTree.TextBlock_15.Text
-msgid "GUARD"
-msgstr ""
+#. Key:	E5F4E735480A2504BDE0E78555C6C7BA
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_4.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_4.Text
+msgid "ATTACK RIGHT"
+msgstr "АТАКА СПРАВА"
 
 #. Key:	E62F50DD42A3AAEF906314A97B9F78CE
 #. SourceLocation:	/Game/UMG/MainMenu.MainMenu_C:WidgetTree.BTN_Feedback.Caption
 #: /Game/UMG/MainMenu.MainMenu_C:WidgetTree.BTN_Feedback.Caption
 msgid "Give Feedback"
-msgstr ""
+msgstr "Отправить отзыв"
+
+#. Key:	E639BDD94BB0A5FFBF6B38875607797D
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_GP.WidgetTree.TextBlock_2.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_00_GP.WidgetTree.TextBlock_2.Text
+msgid "Press"
+msgstr "Нажмите"
 
 #. Key:	E6A0DAEB4AEB518FB9DF3DAD20F4290D
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_1.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Attack_1.Instruction
 msgid "Each weapon has its own combo set. Pressing the attack button will start off a combo with one move. You get to see your move, then repeatedly hit the next button to perform the next move. Keep track of where you are in the combo."
-msgstr ""
+msgstr "У каждого оружия есть свои комбо-атаки. Нажав кнопку атаки, вы начнете комбо. Когда первый удар пройдет, нажмите следующую кнопку атаки, чтобы продолжить комбо."
 
 #. Key:	E707D2424289B6D9DE40D68ADBD829D6
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "SHADOWS"
-msgstr ""
+msgstr "ТЕНИ"
 
 #. Key:	E8E5CE3247769E842423769A68718624
 #. SourceLocation:	/Game/UMG/Help.Help_C:WidgetTree.TextBlock_299.Text
 #: /Game/UMG/Help.Help_C:WidgetTree.TextBlock_299.Text
 msgid "BACK"
-msgstr ""
+msgstr "НАЗАД"
 
 #. Key:	E93B209449ECE9EA5B35F9A49D7F28EC
 #. SourceLocation:	/Game/UMG/Ending.Ending_C:WidgetTree.TextBlock_197.Text
 #: /Game/UMG/Ending.Ending_C:WidgetTree.TextBlock_197.Text
 msgid "AMAZING!"
-msgstr ""
+msgstr "ПОТРЯСАЮЩЕ!"
+
+#. Key:	EA3D76B94BEB8C04D667F68BC6885916
+#. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_1.Text
+#: /Game/UMG/GuideTemp.GuideTemp_C:WidgetTree.GuidePages.WidgetTree.GuidePage_01_KB.WidgetTree.TextBlock_1.Text
+msgid "COUNTERATTACK LEFT"
+msgstr "КОНТРАТАКА СЛЕВА"
 
 #. Key:	ECB3EAD44874BFD7498AB0A1B3230A5A
 #. SourceLocation:	/Game/UMG/GuideTemp.GuideTemp_C:GetText_0 [Script Bytecode]
 #: /Game/UMG/GuideTemp.GuideTemp_C:GetText_0 [Script Bytecode]
 msgid "SHOW XBOX 360 CONTROLLER GUIDE"
-msgstr ""
+msgstr "ПОКАЗАТЬ РАСКЛАДКУ ГЕЙМПАДА XBOX 360"
 
 #. Key:	EE9FFDA24C38B50947B4D98A914F5C54
 #. SourceLocation:	/Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText [Script Bytecode]
 #: /Game/Blueprints/System/GameSettingsUtility.GameSettingsUtility_C:GetGameSettingsTitleText
 #: [Script Bytecode]
 msgid "INVERT X"
-msgstr ""
+msgstr "ИНВЕРТИРОВАТЬ X"
 
 #. Key:	EFDEFC6641A438FEE111E3B68026B833
 #. SourceLocation:	/Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.RebirthW.Caption
 #: /Game/UMG/InGameMenu.InGameMenu_C:WidgetTree_9.SystemMenu.WidgetTree.SystemMenu_RootW.WidgetTree.RebirthW.Caption
 msgid "RESPAWN"
-msgstr ""
+msgstr "ПЕРЕРОДИТЬСЯ"
 
 #. Key:	F2BBE8614FF4A264028A4293DAAF3C4A
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.vendingMachine_01.MyPickUpComponent.PickUpText
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.vendingMachine_01.MyPickUpComponent.PickUpText
 msgid "USE"
-msgstr ""
+msgstr "ИСПОЛЬЗОВАТЬ"
 
 #. Key:	F359468D40C26321DF58DEAFF44467A7
 #. SourceLocation:	/Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.GreenMaidenBoss_LV1_1332.DisplayName
 #: /Game/Maps/GoneWithTheDemonMaps/GWTD_Map_01.GWTD_Map_01:PersistentLevel.GreenMaidenBoss_LV1_1332.DisplayName
 msgid "Green Maiden"
-msgstr ""
+msgstr "Зелёная Дева"
 
 #. Key:	F3BC7DBF45371C90D0AFE2A9B11EF6A8
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_Session.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_Session.Missions(0).Missions.MissionDescription
 msgid "Come in front of the opponent and hold [player_move_left] + press [player_dodge] to dodge the attack."
-msgstr ""
+msgstr "Подойдите к противнику, зажмите [player_move_left] + нажмите [player_dodge] чтобы уклониться от атаки."
 
 #. Key:	F4149CA94BEB3D3E1B9E18829B4BA120
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_1.Missions(0).Missions.MissionDescriptionEx
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_1.Missions(0).Missions.MissionDescriptionEx
 msgid "He attacks at random."
-msgstr ""
+msgstr "Он атакует вас с случайной стороны."
 
 #. Key:	F47B6963490E539D7E0F1EB8C542A6DA
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Guard_Session.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Guard_Session.Instruction
 msgid "Catching the opportunity to attack while guarding the enemy’s attack is a stable and effective strategy. "
-msgstr ""
+msgstr "Следите за ударами противника и атакуйте когда выдается шанс. Это проверенная тактика для сражения."
 
 #. Key:	F5D4F8764C46A77A796994A6FC416A7E
 #. SourceLocation:	/Game/UMG/BedUI.BedUI_C:WidgetTree.WakeUpButton.DescriptionText
 #: /Game/UMG/BedUI.BedUI_C:WidgetTree.WakeUpButton.DescriptionText
 msgid "Wake up and repair weapons."
-msgstr ""
+msgstr "Проснуться и починить оружие."
 
 #. Key:	F713E2344E83F24AF571689DF6DEF2BF
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.GuardBreak_Session.Instruction
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.GuardBreak_Session.Instruction
 msgid "When the enemy is guarding, normal attacks are inefficient. In that case, you can kick guarding enemies and make them stagger."
-msgstr ""
+msgstr "Когда враг защищается, обычные атаки бездейственны. В таком случае вы можете пнуть его чтобы пробить блок."
 
 #. Key:	F7F23C18427412C5210A64964054D35C
 #. SourceLocation:	/Game/UMG/VendingMachine/VendingMachineSlot.VendingMachineSlot_C:WidgetTree.TextBlock_12.Text
 #: /Game/UMG/VendingMachine/VendingMachineSlot.VendingMachineSlot_C:WidgetTree.TextBlock_12.Text
 msgid "SOLD OUT"
-msgstr ""
+msgstr "РАСПРОДАНО"
 
 #. Key:	F91080B7457FE9BF3E2DF68B6F5C309D
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_0.Missions(0).Missions.MissionDescription
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Dodge_0.Missions(0).Missions.MissionDescription
 msgid "Come in front of the opponent and hold [player_move_right] + press [player_dodge] to dodge the attack."
-msgstr ""
+msgstr "Подойдите к противнику, зажмите [player_move_right] + нажмите [player_dodge] чтобы уклониться от атаки."
 
 #. Key:	FBE5588A499AFF148EA730AE6D471E4F
 #. SourceLocation:	/Game/UMG/Guide/GuideTV_Content_Guard.GuideTV_Content_Guard_C:WidgetTree.KeyCapWithText_C_146.Caption
 #: /Game/UMG/Guide/GuideTV_Content_Guard.GuideTV_Content_Guard_C:WidgetTree.KeyCapWithText_C_146.Caption
 msgid "GUARD : (Hold) [player_guard_left] + [player_guard_right]"
-msgstr ""
+msgstr "БЛОК : (Зажмите) [player_guard_left] + [player_guard_right]"
 
 #. Key:	FE428D6043E0C335B23AABB44990A1A8
 #. SourceLocation:	/Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Session.Missions(0).Missions.MissionDescriptionEx
 #: /Game/Data/Tables/Tutorial_Table.Tutorial_Table.Counter_Session.Missions(0).Missions.MissionDescriptionEx
 msgid "He attacks from the left."
-msgstr ""
+msgstr "Он атакует вас слева."
 
 #. Key:	FFD3E764409D0C574EECD0BC63A8059D
 #. SourceLocation:	/Game/UMG/Guide/GuideTV_Content_Attack.GuideTV_Content_Attack_C:WidgetTree.KeyCapWithText_145.Caption
 #: /Game/UMG/Guide/GuideTV_Content_Attack.GuideTV_Content_Attack_C:WidgetTree.KeyCapWithText_145.Caption
 msgid "ATTACK RIGHT: [player_attack_right]"
-msgstr ""
+msgstr "АТАКА СПРАВА: [player_attack_right]"
 
 #. Key:	0A87D8FD4576D9C4950315AD0D0E5E26
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.FryingPan.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.FryingPan.Description
 msgctxt "gwtd.ItemDesc"
 msgid "A common frying pan. It could actually cause quite a bit of damage."
-msgstr ""
+msgstr "Обычная сковородка. Может нанести приличный урон."
 
 #. Key:	0DF03F6849D8A298CB0F6CB207A367A2
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map02_BlueKey.Description
@@ -1692,35 +1903,35 @@ msgstr ""
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map06_SteelKey.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Unlock a door somewhere."
-msgstr ""
+msgstr "Открывает одну из дверей."
 
 #. Key:	11041A8A4E38140D121756A7874DACD8
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Cannedcoffee.Description
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Cannedcoffee.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Reduces Stamina cost for a short time."
-msgstr ""
+msgstr "Уменьшает затрачиваемую Стамину на короткий период времени."
 
 #. Key:	167B8CA14AAB6F6081B350834247C552
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Shovel.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Shovel.Description
 msgctxt "gwtd.ItemDesc"
 msgid "A shovel has the power and durability, but it is rather hard to maneuver. It requires a good amount of strength to use."
-msgstr ""
+msgstr "Лопата, прочная и наносит много урона, но ей сложно управлять. Вы должны быть достаточно сильным чтобы орудовать ей."
 
 #. Key:	227AE44F4D35A8D49DD68AAC34438D03
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Soda.Description
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Soda.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Slightly reduces Stamina cost for a short time."
-msgstr ""
+msgstr "Слегка увеличивает Стамину на короткий период времени."
 
 #. Key:	230A220C437AB365098E578CE91F3D33
 #. SourceLocation:	/Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Brick.Description
 #: /Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Brick.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Heavier than stones and do more damage."
-msgstr ""
+msgstr "Тяжелее чем камни и наносит больше урона."
 
 #. Key:	263900694D8200010AFAD6B06C521405
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.FriedChicken.Description
@@ -1733,21 +1944,21 @@ msgstr ""
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.MushroomL.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Gradually restores a large amount of Life."
-msgstr ""
+msgstr "Постепенно восстанавливает много Здоровья."
 
 #. Key:	299F980F4BE77CDA7CFCBF8458230A09
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.FirstAidKit.Description
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.FirstAidKit.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Quickly restores a large amount of Life."
-msgstr ""
+msgstr "Быстро восстанавливает много Здоровья."
 
 #. Key:	313A4282467E2273EA33CEAE7D1C1BED
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Sledgehammer.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Sledgehammer.Description
 msgctxt "gwtd.ItemDesc"
 msgid "It is commonly used for demolition purposes. Swings to the enemy's body can easily cause much damage."
-msgstr ""
+msgstr "Обычно её используют для разрушения. Удар с размаха по телу противника может легко нанести очень много урона."
 
 #. Key:	35174D934869DA173FE25B8AA244F770
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.FruitJuice.Description
@@ -1757,28 +1968,28 @@ msgstr ""
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.MushroomS.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Gradually restores a small amount of Life"
-msgstr ""
+msgstr "Постепенно восстанавливает немного Здоровья."
 
 #. Key:	37348E73413ADA1B83200BB37303D79D
 #. SourceLocation:	/Game/Items/Tables/NoteItemTable.NoteItemTable.Note_FindYellowDoor.Description
 #: /Game/Items/Tables/NoteItemTable.NoteItemTable.Note_FindYellowDoor.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Looks like it’s the dead labor worker’s final message for his friend."
-msgstr ""
+msgstr "Похоже на предсмертную записку рабочего для его друга."
 
 #. Key:	405622F44979AAA2D5C713B20E8E592F
 #. SourceLocation:	/Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Molotov.Description
 #: /Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Molotov.Description
 msgctxt "gwtd.ItemDesc"
 msgid "It's best to use this when the enemy won't move from a spot for a time, or they move in a predictable manner."
-msgstr ""
+msgstr "Лучше всего использовать, когда вы следите за движением противника и можете предсказать его следующий шаг."
 
 #. Key:	42C1277248E84731B1037684736D9108
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.BaseballBat.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.BaseballBat.Description
 msgctxt "gwtd.ItemDesc"
 msgid "It's originally meant to hit things with."
-msgstr ""
+msgstr "Отбивать мячи - это было изначальным применением для этой биты. Теперь подойдут и головы."
 
 #. Key:	49CA573B4D8F079E5FE2EAACAEC42C98
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Bread.Description
@@ -1788,273 +1999,273 @@ msgstr ""
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.CupNoodles.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Gradually restores a medium amount of Life."
-msgstr ""
+msgstr "Постепенно восстанавливает среднее количество Здоровья."
 
 #. Key:	5BC1C39645C6623BAEEC96AFE9E1D114
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Bottledwater.Description
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Bottledwater.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Immediately restores a medium amount of Stamina."
-msgstr ""
+msgstr "Моментально восстанавливает среднее количество Стамины."
 
 #. Key:	616CCC3643D87C60ABD59A841C691956
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.WoodenSword.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.WoodenSword.Description
 msgctxt "gwtd.ItemDesc"
 msgid "A wooden sword used for training. "
-msgstr ""
+msgstr "Деревянный меч для тренировок. "
 
 #. Key:	660EF3B14DBCA80D6623B48D53FBDC8C
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.SashimiKnife.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.SashimiKnife.Description
 msgctxt "gwtd.ItemDesc"
 msgid "It has an extremely sharp, thin blade and weak durability."
-msgstr ""
+msgstr "У него безумно острое, тонкое лезвие. К сожалению, не очень прочное."
 
 #. Key:	6DC46D8B446E6C2AA01680A27AB0FB21
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map01_01_BossKey.Description
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map01_01_BossKey.Description
 msgctxt "gwtd.ItemDesc"
 msgid "This key has an unusual, rectangular bow."
-msgstr ""
+msgstr "У этого ключа необычная прямоугольная форма."
 
 #. Key:	6E3792E146B8A9590E12558C19538EE0
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.MeatTenderizer.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.MeatTenderizer.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Tenderize enemies."
-msgstr ""
+msgstr "Отбивает врагов."
 
 #. Key:	7783832941D8A7E66F30899C6BEE27A6
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Hatchet.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Hatchet.Description
 msgctxt "gwtd.ItemDesc"
 msgid "A hatchet should not to be confused with a hand axe. Technically, a hatchet has a hammer head on the back side. A hand axe has a broad flat area on the back side."
-msgstr ""
+msgstr "Топорик не стоит путать с ручным топором. Технически, у топорика есть обух, в то время как у ручного топора в этом месте узкая плоская поверхность."
 
 #. Key:	89760E814652696E82AA57A511953661
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.GolfClub.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.GolfClub.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Good to swing but the shaft can easily bend and break."
-msgstr ""
+msgstr "Ей удобно размахивать, но также очень легко поломать."
 
 #. Key:	8FE0ED8E43E69B25D77D8E956BC37ADF
 #. SourceLocation:	/Game/Items/Tables/NoteItemTable.NoteItemTable.Note_ThereAreSecretPlaces.Description
 #: /Game/Items/Tables/NoteItemTable.NoteItemTable.Note_ThereAreSecretPlaces.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Record of secret places"
-msgstr "비밀 장소에 대한 기록"
+msgstr "Записка о тайных комнатах"
 
 #. Key:	9174E1CF4361A48872F1B9B4E53FE11E
 #. SourceLocation:	/Game/Items/Tables/NoteItemTable.NoteItemTable.Note_AboutTotems.Description
 #: /Game/Items/Tables/NoteItemTable.NoteItemTable.Note_AboutTotems.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Demon Tracer’s record of Totem with horns"
-msgstr "뿔 달린 토템에 대한 데몬 추적자의 쪽지"
+msgstr "Записка Одержимого Байкера о Тотемах с рогами"
 
 #. Key:	AD57377B4CBC53D8A1686D8541296051
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.PipeWrench.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.PipeWrench.Description
 msgctxt "gwtd.ItemDesc"
 msgid "This is an adjustable wrench used for turning soft iron pipes. It is quite effective in close-quarters combat, too."
-msgstr ""
+msgstr "Это разводной ключ для работы с металлическими трубами. Также отлично подходит для ближнего боя."
 
 #. Key:	B3C23D7B46A5722D4B94709310575A9A
 #. SourceLocation:	/Game/Items/Tables/NoteItemTable.NoteItemTable.Note_VdMachineNSpider.Description
 #: /Game/Items/Tables/NoteItemTable.NoteItemTable.Note_VdMachineNSpider.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Old anonymous note about vending machines"
-msgstr "누군가 적어 놓은 자판기에 대한 낡은 쪽지"
+msgstr "Старая анонимная записка о торговых автоматах"
 
 #. Key:	C63BFEF346ACF8443C0E96BCEF4BB638
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.BottledBeer.Description
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.BottledBeer.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Slightly increases Defence for a short time."
-msgstr ""
+msgstr "Слегка увеличивает Защиту на короткий период времени."
 
 #. Key:	D1469ABC487302BD6D5578A662F6BEF9
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Crowbar.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Crowbar.Description
 msgctxt "gwtd.ItemDesc"
 msgid "A tool that pulls nail off using leverage with the split part. It is full of metal and has a massive damage power. Rumor says some scientist favors it."
-msgstr ""
+msgstr "Инструмент, которым вытаскивают гвозди. Сделан полностью из металла и очень больно бьет. По некоторым слухам, такой штукой любят пользоваться учёные."
 
 #. Key:	E7DB12DE4F94A6401F9A4F9B901AC299
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Bandage.Description
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Bandage.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Quickly restores a small amount of Life."
-msgstr ""
+msgstr "Быстро восстанавливает немного Здоровья."
 
 #. Key:	EEDDE7C04A42DC6479E83794B0254A54
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.KitchenKnife.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.KitchenKnife.Description
 msgctxt "gwtd.ItemDesc"
 msgid "A kitchen knife is a cutting tool used in food preparation."
-msgstr ""
+msgstr "Кухонный нож использовавшийся для приготовления пищи."
 
 #. Key:	F59F39464AEA114BB698DA981AB52784
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.FireAxe.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.FireAxe.Description
 msgctxt "gwtd.ItemDesc"
 msgid "It is a fireman's axe with a red head, silver edge, and a wooden handle."
-msgstr ""
+msgstr "Это пожарный топор с красной головой, серебристым лезвием и деревянной ручкой."
 
 #. Key:	FA465164409DAC3E75E3538AE794F0F9
 #. SourceLocation:	/Game/Items/Tables/NoteItemTable.NoteItemTable.Note_SpiderAndCoin.Description
 #: /Game/Items/Tables/NoteItemTable.NoteItemTable.Note_SpiderAndCoin.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Old anonymous note about spiders"
-msgstr "누군가 적어 놓은 거미에 대한 낡은 쪽지"
+msgstr "Старая анонимная записка о пауках"
 
 #. Key:	FBB138E2439343F14684D0A79406A7E6
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.EnergyDrink.Description
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.EnergyDrink.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Immediately restores a large amount of Stamina."
-msgstr ""
+msgstr "Моментально восстанавливает много Стамины."
 
 #. Key:	FCC0FFDA4E25C41883A10986C4A8CA00
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Coin.Description
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Coin.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Vending machines dispense drinks in return for coins."
-msgstr "동전을 사용해 자판기에서 음료를 뽑을 수 있습니다."
+msgstr "Торговые автоматы выдают напитки взамен на монеты."
 
 #. Key:	FE3EEBB24A78B2B9FDA9C28E8A5D2866
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Cleaver.Description
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Cleaver.Description
 msgctxt "gwtd.ItemDesc"
 msgid "This has a tough edge meant to withstand repeated blows."
-msgstr "이것은 여러번 사용해도 견딜만한 두툼한 칼날을 가지고 있습니다. "
+msgstr "Прочный тесак способный выдержать множество ударов."
 
 #. Key:	FE7E2DBB4AF317F75C6113889B1EBC94
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Soju.Description
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Soju.Description
 msgctxt "gwtd.ItemDesc"
 msgid "Greatly increases Defence for a short time. Soju is the most popular Korean alcoholic beverage."
-msgstr "짧은 시간 동안 방어력을 크게 증가시킵니다. 소주는 가장 인기있는 한국 알코올 음료입니다."
+msgstr "Сильно увеличивает Защиту на короткое время. Соджу является самым популярным Корейским алкогольным напитком."
 
 #. Key:	08543D864A7A3904A9BEFFA69D63D8D7
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.MeatTenderizer.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.MeatTenderizer.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Meat Tenderizer"
-msgstr "고기 망치"
+msgstr "Отбивалка для Мяса"
 
 #. Key:	0AB3538042A037A2F2FFA3BC15BBDDF2
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Bandage.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Bandage.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Bandage"
-msgstr "붕대"
+msgstr "Бинт"
 
 #. Key:	122408EB4997537F83D83C8E4333564E
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.SashimiKnife.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.SashimiKnife.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Sashimi Knife"
-msgstr "사시미 칼"
+msgstr "Нож для Сашими"
 
 #. Key:	1338C993423683C0E7C57CB475A3C3F6
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map01_01_BossKey.DisplayName
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map01_01_BossKey.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Purple Key"
-msgstr "보라색 열쇠"
+msgstr "Фиолетовый Ключ"
 
 #. Key:	17978CE64F852515AE013499B284F25B
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Bread.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Bread.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Bread"
-msgstr "빵"
+msgstr "Хлеб"
 
 #. Key:	185D9193404266AC57F3C9B4C8AE496A
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Shovel.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Shovel.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Shovel"
-msgstr "삽"
+msgstr "Лопата"
 
 #. Key:	216F24824B74BCE390F38484AA76A068
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map05_GreenKey.DisplayName
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map05_GreenKey.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Green Key"
-msgstr "녹색 열쇠"
+msgstr "Зеленый Ключ"
 
 #. Key:	218159094BE640418AB27AB45EB2B9A4
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.KoreanStyleBacon.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.KoreanStyleBacon.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Belly Bacon"
-msgstr "삼겹살"
+msgstr "Бекон"
 
 #. Key:	25ED42A34E61E33659203993B6D353BB
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map04_RedKey.DisplayName
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map04_RedKey.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Red Key"
-msgstr "빨간색 열쇠"
+msgstr "Красный Ключ"
 
 #. Key:	26C00EA342440AE343946693BD734B60
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.WoodenSword.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.WoodenSword.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Bokken"
-msgstr "목검"
+msgstr "Боккэн"
 
 #. Key:	2776D8EE44211D5F2900E3A834395217
 #. SourceLocation:	/Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Molotov.DisplayName
 #: /Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Molotov.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Molotov Cocktail"
-msgstr "화염병"
+msgstr "Коктейль Молотова"
 
 #. Key:	27DBC8F847968FB5536F2E9D462B8419
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.FriedChicken.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.FriedChicken.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Fried Chicken"
-msgstr "치킨"
+msgstr "Жареная Курочка"
 
 #. Key:	28E73E294572586E8F4F98AC5D6C4808
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key101.DisplayName
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key101.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Yellow Key"
-msgstr "노란색 열쇠"
+msgstr "Желтый Ключ"
 
 #. Key:	29A8B3884C03123421786EB288930752
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Crowbar.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Crowbar.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Crowbar"
-msgstr "쇠지렛대"
+msgstr "Монтировка"
 
 #. Key:	3722DB2140FD9E093252B68D650DF7A5
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.MushroomL.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.MushroomL.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Bunch of Mushrooms"
-msgstr "버섯 다발"
+msgstr "Кучка грибов"
 
 #. Key:	3BFCECDE462BB1C52B056FB929D61E60
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Cannedcoffee.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Cannedcoffee.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Canned Coffee"
-msgstr "캔 커피"
+msgstr "Кофе в банке"
 
 #. Key:	3D6F1FFD4A53B0F042DC3E82508C7C53
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Coin.DisplayName
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Coin.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Coin"
-msgstr "동전"
+msgstr "Монета"
 
 #. Key:	3D7A342B4616CA65E22320A7F697DC87
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map02_BlueKey.DisplayName
@@ -2064,98 +2275,98 @@ msgstr "동전"
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map06_SteelKey.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Steel Key"
-msgstr "금속 열쇠"
+msgstr "Стальной Ключ"
 
 #. Key:	41ACA46C411214147DA1E3B52EDFD021
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Fist.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Fist.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Fist"
-msgstr "주먹"
+msgstr "Кулаки"
 
 #. Key:	5544B87A4C7839EB5F69D7AF05847A1D
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.EnergyDrink.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.EnergyDrink.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Energy Drink"
-msgstr "강장 음료"
+msgstr "Энергетический Напиток"
 
 #. Key:	5BD3E5564FB41FAC8632DEA3FE71F82F
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Hatchet.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Hatchet.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Hatchet"
-msgstr "손도끼"
+msgstr "Топорик"
 
 #. Key:	5E062A274EE83743F658FA88C43E0554
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.FireAxe.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.FireAxe.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Fire Axe"
-msgstr "소방 도끼"
+msgstr "Пожарный Топор"
 
 #. Key:	6B7F9CE0435A60A9DE373CBEC5CF3FEA
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.FryingPan.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.FryingPan.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Frying Pan"
-msgstr "프라이팬"
+msgstr "Сковорода"
 
 #. Key:	7C34322740BB07EEFFE82086A7C4ECC5
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.BottledBeer.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.BottledBeer.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Bottled Beer"
-msgstr "병 맥주"
+msgstr "Бутылка Пива"
 
 #. Key:	7E6662474F7371534C5BBC991264FFD2
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.MushroomS.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.MushroomS.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Mushroom"
-msgstr "버섯"
+msgstr "Гриб"
 
 #. Key:	82BD1C364CC71CB79BF7D495405F480D
 #. SourceLocation:	/Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map03_BlueKey.DisplayName
 #: /Game/Items/Tables/SundriesItemTable.SundriesItemTable.Key_Map03_BlueKey.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Blue Key"
-msgstr "파란색 열쇠"
+msgstr "Синий Ключ"
 
 #. Key:	855082F04A4F85587907089727D22D11
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Bottledwater.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Bottledwater.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Bottled Water"
-msgstr "생수"
+msgstr "Бутылка Воды"
 
 #. Key:	9182E0724A140664B6878FB201CB0721
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.BaseballBat.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.BaseballBat.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Baseball Bat"
-msgstr "야구 방망이"
+msgstr "Бейсбольная бита"
 
 #. Key:	921FC83A40B5EBD1BFCB6B84CD9ED5D1
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.FruitJuice.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.FruitJuice.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Fruit Juice"
-msgstr "과일 주스"
+msgstr "Фруктовый Сок"
 
 #. Key:	94BBC5804C77B60E2E9BA4A6FACDC7DE
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Sledgehammer.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Sledgehammer.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Sledgehammer"
-msgstr "큰 망치"
+msgstr "Кувалда"
 
 #. Key:	9DE08C77419B536B354C0E982B9CB2C1
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Soju.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Soju.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Soju"
-msgstr "소주"
+msgstr "Соджу"
 
 #. Key:	AE9C8752476BCFBECD079EB3255C6BFD
 #. SourceLocation:	/Game/Items/Tables/NoteItemTable.NoteItemTable.Note_SpiderAndCoin.DisplayName
@@ -2168,84 +2379,84 @@ msgstr "소주"
 #: /Game/Items/Tables/NoteItemTable.NoteItemTable.Note_VdMachineNSpider.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Old Note"
-msgstr "오래된 쪽지"
+msgstr "Старая Записка"
 
 #. Key:	AFDFDB954ECD8922C396249D7A588F7B
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.PipeWrench.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.PipeWrench.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Pipe Wrench"
-msgstr "파이프 렌치"
+msgstr "Разводной ключ"
 
 #. Key:	B63DF1B0495D5D23A186EC9CCC42E8A4
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.Soda.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.Soda.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Soda"
-msgstr "탄산 음료"
+msgstr "Газировка"
 
 #. Key:	B9C78C8E4BB72FD0BEB62A8F44E2D28B
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.FirstAidKit.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.FirstAidKit.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "First Aid Kit"
-msgstr "구급 상자"
+msgstr "Аптечка Первой Помощи"
 
 #. Key:	C056B38E4F638ACE91F99CBDE606FDB0
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.KitchenKnife.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.KitchenKnife.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Kitchen knife"
-msgstr "부엌칼"
+msgstr "Кухонный нож"
 
 #. Key:	C4B121CA4D20D3D641F04D9C71F4C5FF
 #. SourceLocation:	/Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Brick.DisplayName
 #: /Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Brick.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Brick"
-msgstr "벽돌"
+msgstr "Кирпич"
 
 #. Key:	CE85669343150B4742332196C7F2D576
 #. SourceLocation:	/Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Stone.DisplayName
 #: /Game/Items/Tables/ThrowableItemTable.ThrowableItemTable.Stone.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Stone"
-msgstr "돌멩이"
+msgstr "Камень"
 
 #. Key:	D7A0216947BCEF12182F39B0D37C3B3B
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.Cleaver.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.Cleaver.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Cleaver"
-msgstr "큰 식칼"
+msgstr "Тесак"
 
 #. Key:	DD951AC04F7E5291B9ECF589E076EED8
 #. SourceLocation:	/Game/Items/Tables/PotionItemTable.PotionItemTable.CupNoodles.DisplayName
 #: /Game/Items/Tables/PotionItemTable.PotionItemTable.CupNoodles.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Instant Cup Noodles"
-msgstr "컵라면"
+msgstr "Лапша Быстрого Приготовления"
 
 #. Key:	E48185224700BFA5159537B63DFD5696
 #. SourceLocation:	/Game/Items/Tables/NoteItemTable.NoteItemTable.Note_AboutTotems.DisplayName
 #: /Game/Items/Tables/NoteItemTable.NoteItemTable.Note_AboutTotems.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Demon Tracer's Note"
-msgstr "데몬 추적자의 노트"
+msgstr "Записка Одержимого Байкера"
 
 #. Key:	ED8DC0BC449C193971343BBE7A853458
 #. SourceLocation:	/Game/Items/Tables/WeaponItemTable.WeaponItemTable.GolfClub.DisplayName
 #: /Game/Items/Tables/WeaponItemTable.WeaponItemTable.GolfClub.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Golf Club"
-msgstr "골프채"
+msgstr "Клюшка для гольфа"
 
 #. Key:	EDA4D6A64AEDFC750C641FBF3D40CBBC
 #. SourceLocation:	/Game/Items/Tables/NoteItemTable.NoteItemTable.Note_FindYellowDoor.DisplayName
 #: /Game/Items/Tables/NoteItemTable.NoteItemTable.Note_FindYellowDoor.DisplayName
 msgctxt "gwtd.ItemName"
 msgid "Worker's Note"
-msgstr "노동자의 쪽지"
+msgstr "Записка Рабочего"
 
 #. Key:	0945B3A348A55E3F88588190596E654E
 #. SourceLocation:	/Game/UMG/Notes/Note_FindBlueLamp.Note_FindBlueLamp_C:WidgetTree.TextBlock_0.Text
@@ -2262,15 +2473,15 @@ msgid ""
 "\r\n"
 "It was a pleasure, brother."
 msgstr ""
-"네가 돌아올 때까지 버티지 못할 것 같아.\n"
-"마지막으로 네게 도움이 되고 싶어.\n"
+"Не думаю что продержусь до твоего возвращения.\n"
+"Но я хочу помочь, в последний раз.\n"
 "\n"
-"아래층 어딘가에 파란 램프가 있는  어두운 방이 있어.\n"
-"근처에서 검은 봉지 하나를 찾을 수 있을거야.\n"
-"그 안에 몇가지 쓸만한 물건을 숨겨뒀어.\n"
-"너라도 그걸 유용하게 사용하길 바란다.\n"
+"Где-то внизу есть комната с синей лампой.\n"
+"Поищи там поблизости чёрный мусорный мешок.\n"
+"В нём я кое-что припрятал.\n"
+"Надеюсь, ты найдешь пользу в этих вещах.\n"
 "\n"
-"그 동안 정말 고마웠어."
+"Это было честью для меня, брат."
 
 #. Key:	2C9478D243008C2F1C75B39E7B0B7986
 #. SourceLocation:	/Game/UMG/Notes/Note_ThereAreSecretPlaces.Note_ThereAreSecretPlaces_C:WidgetTree.TextBlock_0.Text
@@ -2280,10 +2491,7 @@ msgid ""
 "I know some labor workers who built this underground architecture. According to them, there are many secret places. They are hidden in common places like the back of the closets or behind the walls.\r\n"
 "\r\n"
 "One of them tipped me off there is definitely a secret space behind the closet in the room near the elevator."
-msgstr ""
-"이 지하 건축물을 만든 노동자 몇몇을 알고 있다. 그들의 얘기를 들어보면 이곳에는 수많은 비밀 장소가 있다고 한다. 평범해 보이는 옷장이나 벽 뒤에 숨겨진 공간이 있다는 것이다.\n"
-"\n"
-"한 노동자가 귀띔해주길, 엘리베이터 근처에 있는 방 안 옷장 뒤에 확실히 비밀 공간이 있다고 했다."
+msgstr "Я знал пару ребят, которые построили эту подземку. По их словам, тут куча тайных комнат. Они спрятаны в самых обыкновенных местах, за шкафами или например за передвижными стенами."
 
 #. Key:	4F137A814053359BE3E25F834BDFD551
 #. SourceLocation:	/Game/UMG/Notes/Note_VendingMachineAndSpider.Note_VendingMachineAndSpider_C:WidgetTree.TextBlock_0.Text
@@ -2296,11 +2504,11 @@ msgid ""
 "\r\n"
 "Spiders… I must kill more spiders and collect coins."
 msgstr ""
-"자판기가 곳곳에 설치되어 있다.\n"
+"Тут повсюду стоят торговые автоматы.\n"
 "\n"
-"이런 지하에 설치된 자판기이지만 가격이 비싸지 않아 다행이다.\n"
+"Это конечно подземка, но цены к счастью приемлимые.\n"
 "\n"
-"거미들… 더 많은 거미를 잡아 동전을 모아야 한다."
+"Пауки... Нужно убить больше этих пауков и забрать их монеты."
 
 #. Key:	9C276791424B41F05616FB8B8C797B63
 #. SourceLocation:	/Game/UMG/Notes/Note_AboutTotems.Note_AboutTotems_C:WidgetTree.TextBlock_0.Text
@@ -2315,13 +2523,13 @@ msgid ""
 "\r\n"
 "Surprisingly, the Totem also had an ability to heal wounds."
 msgstr ""
-"동료가 쓰러질 때마다 적들은 사기가 오르고 더욱 강해졌다.\n"
-"\n"
-"그러나 뿔 달린 토템에 공물을 바치자 잠잠해졌다.\n"
-"\n"
-"놈들에게도 종교나 신이 있는 것일지도 모른다.\n"
-"\n"
-"놀랍게도 그 토템은 상처를 치료해주는 효과도 있었다."
+"Каждый раз, когда одного из нас побеждали, враги становились сильнее.\r\n"
+"\r\n"
+"Однако, если сделать подношение Тотему с рогами, противники станут поспокойнее. \r\n"
+"\r\n"
+"Может быть это их бог? \r\n"
+"\r\n"
+"Удивительно, но за подношения Тотем также залечивает раны."
 
 #. Key:	FFB659734FE785E8D89D6FAEFF81DB6C
 #. SourceLocation:	/Game/UMG/Notes/Note_SpiderAndCoin.Note_SpiderAndCoin_C:WidgetTree.TextBlock_0.Text
@@ -2338,15 +2546,15 @@ msgid ""
 "\r\n"
 "Hold on… I did not see any spider web… Are they not spiders?"
 msgstr ""
-"거대한 거미를 처음 봤을 때는 깜짝 놀랐다.\n"
-"\n"
-"다행히 공격성은 없는 생물이었다.\n"
-"\n"
-"몇 마리 잡았는데 모두 동전을 가지고 있었다.\n"
-"\n"
-"이 거미들은 동전을 좋아하는 모양이다.\n"
-"\n"
-"잠깐... 거미줄을 본 기억은 없는데, 거미가 아닌 다른 생물인가?"
+"Как же я испугался когда впервые увидел этого паука. \r\n"
+"\r\n"
+"К счастью, похоже что они не агрессивны.\r\n"
+"\r\n"
+"Я даже убил парочку, и из них выпали монеты.\r\n"
+"\r\n"
+"Наверное они их сильно любят раз носят с собой.\r\n"
+"\r\n"
+"Погодите-ка... Я нигде не видел паутины... Может это не пауки?"
 
 #. Key:	1173AE124A92BAB50FB8178B99DE6846
 #. SourceLocation:	/Game/Blueprints/Core/MyMonster.MyMonster_C:ExecuteUbergraph_MyMonster [Script Bytecode]
@@ -2360,7 +2568,7 @@ msgstr ""
 #: /Game/Items/PickUpItem.PickUpItem_C:DoPickUp
 msgctxt "gwtd.Notice"
 msgid "You can’t pick up any more. You have reached the maximum possession."
-msgstr "최대 소지량에 도달하여 주울 수 없습니다"
+msgstr "Вы не можете взять больше. Инвентарь полон."
 
 #. Key:	1FCD6BAC452D34A7DB2A19A0CF5F4CC6
 #. SourceLocation:	/Game/Blueprints/System/MyDemonFrenzySystem.MyDemonFrenzySystem_C:ExecuteUbergraph_MyDemonFrenzySystem [Script Bytecode]
@@ -2368,7 +2576,7 @@ msgstr "최대 소지량에 도달하여 주울 수 없습니다"
 #: [Script Bytecode]
 msgctxt "gwtd.Notice"
 msgid "Your death raised the morale of enemies."
-msgstr ""
+msgstr "Ваша смерть повысила вражеский дух."
 
 #. Key:	34850A504A1819F8EB63F5BEA6D4FD3E
 #. SourceLocation:	/Game/Blueprints/Placeables/TotemPole.TotemPole_C:ExecuteUbergraph_TotemPole [Script Bytecode]
@@ -2376,14 +2584,14 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt "gwtd.Notice"
 msgid "You don’t have enough Essence."
-msgstr ""
+msgstr "У вас недостаточно Эссенции."
 
 #. Key:	4BDC78E3429B052101850A8B707F855E
 #. SourceLocation:	/Game/Blueprints/MyHUD.MyHUD_C:ExecuteUbergraph_MyHUD [Script Bytecode]
 #: /Game/Blueprints/MyHUD.MyHUD_C:ExecuteUbergraph_MyHUD [Script Bytecode]
 msgctxt "gwtd.Notice"
 msgid "No Map Available"
-msgstr "이용가능한 지도가 없습니다"
+msgstr "Карта недоступна"
 
 #. Key:	87E14E874B1A42E5C9E3DDAC3D56E16C
 #. SourceLocation:	/Game/Blueprints/Placeables/BP_Bed.BP_Bed_C:ExecuteUbergraph_BP_Bed [Script Bytecode]
@@ -2391,7 +2599,7 @@ msgstr "이용가능한 지도가 없습니다"
 #: Bytecode]
 msgctxt "gwtd.Notice"
 msgid "CANNOT SLEEP WHILE ENEMIES ARE ENARBY"
-msgstr ""
+msgstr "ВЫ НЕ МОЖЕТЕ СПАТЬ, ПОКА РЯДОМ ПРОТИВНИКИ"
 
 #. Key:	FF181CDF494D9E6267A5F4A5B2072309
 #. SourceLocation:	/Game/Blueprints/System/MyDemonFrenzySystem.MyDemonFrenzySystem_C:ExecuteUbergraph_MyDemonFrenzySystem [Script Bytecode]
@@ -2399,172 +2607,172 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt "gwtd.Notice"
 msgid "Enemy morale declined."
-msgstr ""
+msgstr "Вражеский дух упал."
 
 #. Key:	NotEnoughDexterity
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponItemInfo.cpp:47
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponItemInfo.cpp:47
 msgctxt "gwtd.Notice"
 msgid "NOT ENOUGH DEXTERITY"
-msgstr "민첩이 부족합니다"
+msgstr "НЕДОСТАТОЧНО ЛОВКОСТИ"
 
 #. Key:	NotEnoughStrength
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponItemInfo.cpp:43
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponItemInfo.cpp:43
 msgctxt "gwtd.Notice"
 msgid "NOT ENOUGH STRENGTH"
-msgstr "힘이 부족합니다"
+msgstr "НЕДОСТАТОЧНО СИЛЫ"
 
 #. Key:	NotEnoughStrengthAndDexterity
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponItemInfo.cpp:39
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponItemInfo.cpp:39
 msgctxt "gwtd.Notice"
 msgid "NOT ENOUGH STRENGTH AND DEXTERITY"
-msgstr "힘과 민첩이 부족합니다"
+msgstr "НЕДОСТАТОЧНО СИЛЫ И ЛОВКОСТИ"
 
 #. Key:	AbilityAgility
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:60
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:60
 msgctxt "gwtd.PawnAbility"
 msgid "Agility"
-msgstr "날렵함"
+msgstr "Подвижность"
 
 #. Key:	AbilityDexterity
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:56
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:56
 msgctxt "gwtd.PawnAbility"
 msgid "Dexterity"
-msgstr "민첩"
+msgstr "Ловкость"
 
 #. Key:	AbilityEndurance
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:52
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:52
 msgctxt "gwtd.PawnAbility"
 msgid "Endurance"
-msgstr "인내력"
+msgstr "Выносливость"
 
 #. Key:	AbilityEquipLoad
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:62
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:62
 msgctxt "gwtd.PawnAbility"
 msgid "EquipLoad"
-msgstr "장비 중량"
+msgstr "Нагрузка"
 
 #. Key:	AbilityIntelligence
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:58
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:58
 msgctxt "gwtd.PawnAbility"
 msgid "Intelligence"
-msgstr "지능"
+msgstr "Интеллект"
 
 #. Key:	AbilityStrength
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:54
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:54
 msgctxt "gwtd.PawnAbility"
 msgid "Strength"
-msgstr "힘"
+msgstr "Сила"
 
 #. Key:	AbilityVitality
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:50
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:50
 msgctxt "gwtd.PawnAbility"
 msgid "Vitality"
-msgstr "생명력"
+msgstr "Здоровье"
 
 #. Key:	AttributesAttackDamage
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:151
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:151
 msgctxt "gwtd.PawnAttributes"
 msgid "Attack Damage"
-msgstr "공격력"
+msgstr "Сила Удара"
 
 #. Key:	AttributesDefence
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:153
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:153
 msgctxt "gwtd.PawnAttributes"
 msgid "Defence"
-msgstr "방어"
+msgstr "Защита"
 
 #. Key:	AttributesEvasion
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:155
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:155
 msgctxt "gwtd.PawnAttributes"
 msgid "Evasion"
-msgstr "회피"
+msgstr "Уклонение"
 
 #. Key:	AttributesMaxEquipLoad
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:157
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:157
 msgctxt "gwtd.PawnAttributes"
 msgid "Max Equip Load"
-msgstr "최대 장비 중량"
+msgstr "Макс. Нагрузка"
 
 #. Key:	AttributesMaxLife
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:147
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:147
 msgctxt "gwtd.PawnAttributes"
 msgid "Life"
-msgstr "체력"
+msgstr "Здоровье"
 
 #. Key:	AttributesMaxStamina
 #. SourceLocation:	Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:149
 #: Source/GoneWithTheDemon/Private/PawnStatDefine.cpp:149
 msgctxt "gwtd.PawnAttributes"
 msgid "Stamina"
-msgstr "스태미너"
+msgstr "Стамина"
 
 #. Key:	WeaponPropertyDamageDecrementRateAtGuard
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:60
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:60
 msgctxt "gwtd.WeaponProperty"
 msgid "Guard Efficiency"
-msgstr "가드 효율"
+msgstr "Эффективность Блока"
 
 #. Key:	WeaponPropertyDexterityMultiplier
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:68
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:68
 msgctxt "gwtd.WeaponProperty"
 msgid "Dexterity Bonus"
-msgstr "민첩 보너스"
+msgstr "Бонус от Ловкости"
 
 #. Key:	WeaponPropertyMaximumDurability
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:62
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:62
 msgctxt "gwtd.WeaponProperty"
 msgid "Durability"
-msgstr "내구도"
+msgstr "Прочность"
 
 #. Key:	WeaponPropertyOffencePower
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:58
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:58
 msgctxt "gwtd.WeaponProperty"
 msgid "Attack Power"
-msgstr "공격력"
+msgstr "Сила Удара"
 
 #. Key:	WeaponPropertyRequireDexterityForEquip
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:72
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:72
 msgctxt "gwtd.WeaponProperty"
 msgid "Required Dexterity"
-msgstr "요구 민첩"
+msgstr "Необходимая Ловкость"
 
 #. Key:	WeaponPropertyRequireStrengthForEquip
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:70
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:70
 msgctxt "gwtd.WeaponProperty"
 msgid "Required Strength"
-msgstr "요구 힘"
+msgstr "Необходимая Сила"
 
 #. Key:	WeaponPropertyStrengthMultiplier
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:66
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:66
 msgctxt "gwtd.WeaponProperty"
 msgid "Strength Bonus"
-msgstr "힘 보너스"
+msgstr "Бонус от Силы"
 
 #. Key:	WeaponPropertyWeight
 #. SourceLocation:	Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:64
 #: Source/GoneWithTheDemon/Private/TableRow_WeaponStat.cpp:64
 msgctxt "gwtd.WeaponProperty"
 msgid "Weight"
-msgstr "무게"
+msgstr "Вес"
